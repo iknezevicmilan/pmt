@@ -1,0 +1,86 @@
+{% load bootstrap3 %}
+
+<!DOCTYPE html>
+<html lang="sr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		{% block title %}
+		{% endblock %}
+		
+		<link rel="stylesheet" type="text/css" href="/static/preporucivac/styles/base.css">
+		
+		{% bootstrap_css %}
+		{% bootstrap_javascript %}
+		
+		<style>
+			.container-fluid {
+				padding: 0;
+			}
+			.not-inline-checkbox .checkbox {
+				display: block;
+			}
+		</style>
+		
+	</head>
+	<body id="myBody">
+	
+	<div class="container-fluid">
+		<nav class="navbar navbar-inverse" id="myNav">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="/preporucivac/">Preporučivač</a>
+				</div>
+				<ul class="nav navbar-nav">
+					<li><a href="/preporucivac/">Početna</a></li>
+					<li><a href="/static/preporucivac/prezentacija.pdf">Prezentacija</a></li>
+					<li><a href="/static/preporucivac/dokumentacija.pdf">Dokumentacija</a></li>
+				</ul>
+				<ul class="nav navbar-nav navbar-right">
+				{% if user.is_authenticated %}
+					<li><a href="#">Zdravo, {{ user.username }}</a></li>
+					<li><a href="/preporucivac/odjava/"><span class="glyphicon glyphicon-log-out"></span> Odjava</a></li>
+				{% else %}
+					<li><a href="/preporucivac/registracija/"><span class="glyphicon glyphicon-user"></span> Registracija</a></li>
+					<li><a href="/preporucivac/prijava/"><span class="glyphicon glyphicon-log-in"></span> Prijava</a></li>
+				{% endif %}
+				</ul>
+			</div>
+		</nav>
+		
+		<header>
+		</header>
+		
+		{% block page %}
+		<form action="/preporucivac/pretraga/" method="post" class="form-inline">
+			{% csrf_token %}
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+						<aside>
+							<h3>Kategorije</h3>
+							{% bootstrap_field form.kategorija show_label=False form_group_class='not-inline-checkbox' %}
+						</aside>
+					</div>
+					<div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+						<div class="container-fluid">
+							<div class="form-group" id="search">
+								{% bootstrap_field form.q  show_label=False placeholder='Unesite reci za pretragu' %}
+								<button type="submit" class="btn btn-default">Pretraga</button>
+							</div>
+						</div>
+						
+						<div id="content">
+							{% block content %}
+							{% endblock %}
+						</div>
+					</div>
+				</div>
+			</div>
+		</form>
+		{% endblock %}
+	</div>
+	
+	</body>
+</html>

@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}
+<title>{{ mesto.naziv }}</title>
+{% endblock %}
+
+{% block content %}
+	<h1>{{ mesto.naziv }}</h1>
+	<img src="/static/preporucivac/images/{{ mesto.slika }}" width=800px height=400px>
+	<p style="color: rgb(50, 50, 50)"><b>Kategorija: </b>{{ tip }}</p>
+	<p>{{ mesto.opis }}</p>
+	<h3>Adresa</h3>
+	<p>{{ mesto.adresa }}</p>
+	<h3>Linije</h3>
+	<p>{{ mesto.linije }}</p>
+	<p><b>Referenca: </b><a href="{{ mesto.referenca }}">{{ mesto.referenca }}</a></p>
+{% endblock %}

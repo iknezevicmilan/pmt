@@ -1,0 +1,70 @@
+@font-face {
+	font-family: FiraSansRegular;
+	src: url("/static/preporucivac/fonts/FiraSans-Regular.ttf");
+}
+
+@font-face {
+	font-family: Lanenar;
+	src: url("/static/preporucivac/fonts/LANENAR_.ttf");
+}
+
+#myBody {
+	width: 100%;
+	font-family: FiraSansRegular;
+	color: #323232;
+	font-size: 18px;
+	background-color: white;
+}
+			
+#myNav {
+	margin: 0;
+	padding: 20px;
+	border-radius: 0;
+	background-color: #323232;
+}
+	
+header {
+	height: 350px;
+	background-image: url("/static/preporucivac/styles/panorama-beograda.jpg");
+}
+
+aside {
+	padding: 20px;
+}
+			
+#search {
+	padding: 20px;
+	width: calc(100% - 15px);
+	text-align: center;
+}
+			
+#id_q {
+	padding: 6px 12px;
+	border: 1px solid #c0c0c0;
+	border-radius: 3px;
+	font-family: FiraSansRegular;
+}
+			
+#search button {
+	padding: 6px 12px;
+	border: 1px solid #2e6da4;
+	border-radius: 3px;
+	font-family: FiraSansRegular;
+	font-size: 16px;
+	cursor: pointer;
+	color: #fff;
+	background-color: #337ab7;
+}
+
+#content {
+	padding: 20px;
+}
+			
+#content a {
+	color: #323232;
+	text-decoration: none;
+}
+			
+#content a:hover {
+	color: black;
+}

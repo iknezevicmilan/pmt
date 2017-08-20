@@ -1,0 +1,795 @@
+[
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Vojni muzej Beograd",
+			"tip":4,
+			"slika":"muzej_960x332.jpg",
+			"opis":"Vojni muzej Beograd je muzejska institucija koja sakuplja, proučava i prezentuje različite predmete za vojnu upotrebu a pre svega oružje, uniforme, ratne zastave, vojna dokumenta i umetnička dela sa vojnom tematikom. ",
+			"adresa":"Kalemegdan bb",
+			"linije":"2, 22, 28, 29, 31, 41",
+			"referenca":"http://www.muzej.mod.gov.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Kuca cveca",
+			"tip":2,
+			"slika":"384931_kuca-cveca_ls-s.jpg",
+			"opis":"Kuća cveća je naziv za objekat u kojem su sahranjeni nekadašnji doživotni predsednik Socijalističke Federativne Republike Jugoslavije maršal Josip Broz Tito i njegova supruga Jovanka. Kuća cveća je deo Muzeja istorije Jugoslavije, koji se nalazi u Botićevoj ulici, na Dedinju i jedna je od najposećenijih turističkih mesta u Beogradu.",
+			"adresa":"Botićeva 6 ",
+			"linije":"40, 41",
+			"referenca":"http://www.mij.rs/poseta/planirajte-posetu.html",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Etnografski muzej",
+			"tip":4,
+			"slika":"Ethnographic-Museum-(1200x900).jpg",
+			"opis":"Etnografski muzej je jedan od najstarijih muzeja u Srbiji. Nedavno je proslavio jedno stoleće postojanja. S punim pravom se može nazvati čuvarem neizmernog blaga tradicionalne kulture.",
+			"adresa":"Studentski trg 13",
+			"linije":"19, 21, 22, 31, 41",
+			"referenca":"https://etnografskimuzej.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Bajrakli džamija",
+			"tip":10,
+			"slika":"ref_bajrakli_dzamija_1.jpg",
+			"opis":"Bajrakli džamija je sagrađena oko 1575. godine, kao jedna od 273 džamije i mesdžida (posebne islamske bogomolje), koliko ih je u tursko doba bilo u Beogradu.Bajrakli džamija je jednoprostorna građevina sa kupolom i minaretom.",
+			"adresa":"Gospodar Jevremova 11",
+			"linije":"2, 11",
+			"referenca":"http://www.beograd.rs/index.php?lang=cir&kat=beoinfo&sub=201404%3F",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Beli dvor",
+			"tip":11,
+			"slika":"Beli-dvor-MAGNOLIJA-011.jpg",
+			"opis":"Beli dvor nalazi se sa Kraljevskim dvorom u okviru dvorskog kompleksa na najvišem brežuljku Dedinja, na imanju površine 135 hektara.",
+			"adresa":"Pivljanina Baja bb",
+			"linije":"42, 49",
+			"referenca":"http://www.royalfamily.org/%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%B5/%D0%B1%D0%B5%D0%BB%D0%B8-%D0%B4%D0%B2%D0%BE%D1%80/?lang=cir",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Beograd na vodi",
+			"tip":11,
+			"slika":"b96c91fe-268b-4502-b8b5-c6c407cd7290.jpg",
+			"opis":"Beograd na vodi je ime projekta revitalizacije, rekonstrukcije i izgradnje dela prostora poznatog pod imenom Savski amfiteatar u Beogradu. Projekat su započeli Vlada Republike Srbije i investitor iz Ujedinjenih Arapskih Emirata.",
+			"adresa":"Karađorđeva 48",
+			"linije":"2, 11",
+			"referenca":"https://sr.wikipedia.org/sr/%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B8",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Dorćolski kej",
+			"tip":1,
+			"slika":"27178608.jpg",
+			"opis":"Dorćolski kej je šetalište pored reke Dunav u delu Beograda koji se naziva Dorćol.",
+			"adresa":"Dorćol",
+			"linije":"24, 26, 79",
+			"referenca":"https://lancia88.blogspot.rs/2012/02/u-setnji-po-beogradu-dorcolski-kej.html",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Ada Huja",
+			"tip":11,
+			"slika":"166_adahuja.jpg",
+			"opis":"Ada Huja je gradska četvrt u Beogradu, koja se nalazi na teritoriji gradske opštine Palilula.",
+			"adresa":"Palilula",
+			"linije":"16, 23, 25",
+			"referenca":"http://www.blic.rs/vesti/beograd/novo-lice-ade-huje-beograd-dobija-jos-jedno-izletiste-ali-i-naselje-sa-visokim/fdt2vzc",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Ušće SC",
+			"tip":11,
+			"slika":"21_big.jpg",
+			"opis":"TC Ušće je najveći tržni centar u Srbiji i regionu. Prostire se na šest nivoa i 50.000 m2 poslovnog prostora i preko 150 prodavnica, restorana, barova, igraonica, supermarketa i multipleks bioskopom sa 11 sala, kuglanom i igrama na sreću.",
+			"adresa":"Bulevar Mihajla Pupina 4",
+			"linije":"7, 9, 13, 15, 18, 35, 43, 84",
+			"referenca":"http://usceshoppingcenter.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Karaburma SC",
+			"tip":11,
+			"slika":"zabava-za-najmlađe-shopping-centar-karaburma-m-990x575.jpg",
+			"opis":"Shopping centar Karaburma je veliki trgovinski objekat izgrađen u beogradskom naselju Karaburma, na oko pet kilometara od najužeg centra.",
+			"adresa":"Mirijevski bulevar 18b",
+			"linije":"16, 23, 25, 25P, 74",
+			"referenca":"http://sck.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Stadion SC",
+			"tip":11,
+			"slika":"Stadion-shopping-center.jpg",
+			"opis":"Stadion Tržni centar je fudbalski stadion u Beogradu, Srbija. Na njemu svoje domaće utakmice igra FK Voždovac. Stadion je smešten na četvrtom nivou tržnog centra u Zaplanjskoj ulici i napravljen je po standardima UEFA. Ima 5.174 sedećih mesta, pokrivene sve četiri tribine i reflektore. Sam teren je na 24 metara iznad tla, a poslednji red tribina na 45.",
+			"adresa":"Zaplanjska 32",
+			"linije":"18, 25, 25P, 26",
+			"referenca":"https://stadionshoppingcenter.rs/sr/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Tašmajdan",
+			"tip":1,
+			"slika":"110409-TASP-VS-01.jpg",
+			"opis":"Park Tašmajdan nalazi se između ulica Takovske, Ilije Garašanina, Beogradske i Bulevara kralja Aleksandra na prostoru na kome se nekada nalazio kamenolom.",
+			"adresa":"Takovska, Ilije Garašanina, Beogradska, Bulevar kralja Aleksandra",
+			"linije":"2, 3, 6, 7, 10, 14",
+			"referenca":"https://sr.wikipedia.org/sr/%D0%A2%D0%B0%D1%88%D0%BC%D0%B0%D1%98%D0%B4%D0%B0%D0%BD",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Topčider",
+			"tip":1,
+			"slika":"3208539.jpg",
+			"opis":"Topčider je park i gradska četvrt u Beogradu. Park se prostire na 111.336 m2, u dolini Topčiderske reke, i već 150 godina je jedno od najomiljenijih izletišta Beograđana.",
+			"adresa":"Bulevar vojvode Mišića",
+			"linije":"3, 44, 49",
+			"referenca":"http://www.danubeogradu.rs/beograd-srbija/beogradska-jezera/topcider/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Košutnjak",
+			"tip":1,
+			"slika":"Kosutnjak.jpg",
+			"opis":"Košutnjak je ime za šumu i naselje u Beogradu u gradskim opštinama Čukarica i Rakovica. Park-šuma i gradsko izletište Košutnjak prostire se na površini od 330 hektara, na nadmorskoj visini od 250 m. Šuma listopadnog i četinarskog drveća ispresecana je mnogobrojnim stazama.",
+			"adresa":"Čukarica i Rakovica",
+			"linije":"23, 53",
+			"referenca":"http://rakovica.rs/o-rakovici/prirodne-lepote/kosutnjak/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Vukov spomenik",
+			"tip":2,
+			"slika":"67261068.jpg",
+			"opis":"Vukov spomenik je naselje u Beogradu, koje se nalazi na teritoriji opštine Zvezdara. Nalazi se na tromeđi opština Zvezdara, Palilula i Vračar.Naselje je dobilo ime po spomeniku Vuku Karadžiću, koji se nalazi na istočnom uglu Ruzveltove ulice i Bulevara kralja Aleksandra. Naselje je poznato po spomeniku i parku u kome se on nalazi.",
+			"adresa":"Ugao Ruzveltove ulice i Bulevara Kralja Aleksandra",
+			"linije":"6, 14, 32",
+			"referenca":"https://sr.wikipedia.org/sr/%D0%92%D1%83%D0%BA%D0%BE%D0%B2_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Trg republike",
+			"tip":9,
+			"slika":"Trg-republike.jpg",
+			"opis":"Trg republike je centralni gradski trg u Beogradu, Srbija. Nalazi se u opštini Stari grad i obuhvata prostor između „Gradske kafane“, bioskopa „Jadran“, Narodnog pozorišta i Doma Vojske Srbije.[1]Stari naziv trga bio je Pozorišni trg",
+			"adresa":"Trg republike",
+			"linije":"24, 26, 27, 27E, 32E, 35, 37, 44, 96",
+			"referenca":"http://www.beograd.rs/lat/upoznajte-beograd/3185-trg-republike/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Trg Slavija",
+			"tip":9,
+			"slika":"Slavija-1024x679.jpg",
+			"opis":"Slavija je jedan od glavnih gradskih orijentira, značajno saobraćajno čvorište, ali i urbanistički nedovršena celina, kojoj tek predstoji ozbiljno uređivanje.",
+			"adresa":"Trg Slavija obuhvata prostor između ulica Kralja Milana, Beogradske, Makenzijeve, Svetosavske, Bulevara oslobođenja, Deligradske i Nemanjine.",
+			"linije":"2, 3, 9, 10, 14, 19, 21, 22, 31, 33, 47, 48, 78",
+			"referenca":"http://www.beograd.rs/lat/upoznajte-beograd/3173-trg-slavija/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Trg Nikole Pašića",
+			"tip":9,
+			"slika":"Trg_Nikole_Pašića_Belgrade.jpg",
+			"opis":"Trg Nikole Pašića nalazi se između Terazija, Bulevara kralja Aleksandra i ulice Dečanske, i najmlađi je beogradski trg; izgrađen je 1953. kada je na njemu postavljen vodoskok.Na Trgu je 1998. podignut spomenik Nikoli Pašiću.",
+			"adresa":"Trg Nikole Pašića",
+			"linije":"27, 37",
+			"referenca":"http://www.beograd.rs/lat/upoznajte-beograd/3189-trg-nikole-pasica/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Dom Sindikata",
+			"tip":6,
+			"slika":"Dvorana_doma_sindikata.jpg",
+			"opis":"Dom Sindikata je zgrada na beogradskom Trgu Nikole Pašića. Više godina je korišćena kao središte radničkih sindikata i otud joj ime. U novije vreme dobar se deo zgrade izdaje poslovnim korisnicima.Osim kancelarijskog prostora, zgrada poseduje i četiri bioskopske sale. Sala I može primiti 1.600 posetilaca.U Domu sindikata su se održavali, a i dalje se održavaju, mnogi kulturni događaji od značaja za Beograd, ali i za celu zemlju. Pre izgradnje Centra Sava, u Domu Sindikata se održavao FEST.",
+			"adresa":"Dečanska 14",
+			"linije":"21, 22, 29, 31",
+			"referenca":"http://www.domsindikata.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Skupština Srbije",
+			"tip":11,
+			"slika":"Skupstina-srbije.jpg",
+			"opis":"Narodna skupština Republike Srbije je najviše predstavničko telo i nosilac ustavotvorne i zakonodavne vlasti u Republici Srbiji.Jednodomna je i sastoji se od 250 narodnih poslanika, koji se po Ustavu biraju na slobodnim i tajnim izborima na mandat od četiri godine.",
+			"adresa":"Trg Nikole Pašića 13",
+			"linije":"27, 37",
+			"referenca":"http://www.parlament.gov.rs/%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0-%D1%81%D0%BA%D1%83%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B0.1.html",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Karađorđev trg",
+			"tip":9,
+			"slika":"25093138.jpg",
+			"opis":"Karađorđev trg se nalazi u Zemunu, između Karađorđeve i ulice 22. oktobra.",
+			"adresa":"Karađorđeva ulica I ul. 22. oktobra",
+			"linije":"15, 84, 704, 706, 707",
+			"referenca":"https://sr.wikipedia.org/sr-el/%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2_%D1%82%D1%80%D0%B3_(%D0%97%D0%B5%D0%BC%D1%83%D0%BD)",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Karađorđev park",
+			"tip":1,
+			"slika":"Karadjordjev-park.jpg",
+			"opis":"Karađorđev park prostire se između Bulevara oslobođenja (Bulevar JNA) i Nebojšine ulice. Na ovom mestu, za vreme napada na Beograd 1806. godine, bio je jedan od logora ustaničke vojske. Park predstavlja znamenito mesto od izuzetnog značaja.",
+			"adresa":"Nebojšina bb",
+			"linije":"9, 10, 14, 30, 31, 33, 47, 48, 78",
+			"referenca":"http://www.danubeogradu.rs/2015/04/karadordev-park/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Autokomanda",
+			"tip":9,
+			"slika":"26 autokoman (2).jpg",
+			"opis":"Auto-komanda je gradska četvrt u Beogradu, glavnom gradu Srbije, a takođe i petlja na auto-putu koji prolazi kroz Beograd. Nalazi se na tromeđi gradskih opština Voždovac, Savski venac i Vračar.",
+			"adresa":"Tromeđa gradskih opština Voždovac, Savski venac I Vračar",
+			"linije":"9, 10, 14, 18, 33, 39, 78",
+			"referenca":"https://sr.wikipedia.org/sr-el/%D0%90%D1%83%D1%82%D0%BE%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Elektrotehnički fakultet Beograd",
+			"tip":11,
+			"slika":"ETF-Beograd.jpg",
+			"opis":"Elektrotehnički fakultet (ETF) je državni fakultet koji radi u sastavu Univerziteta u Beogradu.",
+			"adresa":"Bulevar kralja Aleksandra 73",
+			"linije":"2, 3, 5, 6, 7, 12, 14, 25, 26, 27, 32, 65, 66, 74",
+			"referenca":"http://www.etf.bg.ac.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Zemunska gimnazija",
+			"tip":11,
+			"slika":"zemunska-gimnazija-foto-kurir-1359810645-262277-700x466.jpg",
+			"opis":"Zemunska gimnazija je jedna od 17 beogradskih gimnazija, koja se nalazi u Gradskom parku u Zemunu.",
+			"adresa":"Gradski park 1",
+			"linije":"15, 17, 73, 81, 81L, 82, 85, 88, 610, 611",
+			"referenca":"http://www.zemunskagimnazija.edu.rs/index.php?jezik=sr&strana=naslovna",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Crkva Svetog Marka",
+			"tip":10,
+			"slika":"1200px-Crkva_Svetog_Marka_u_Beogradu.jpg",
+			"opis":"Crkva Svetog Marka na Tašmajdanu građena je od 1931. do 1940. godine u neposrednoj blizini stare crkve iz 1835. godine, prema planovima arhitekata Petra i Branka Krstića. Oblikovana je u duhu arhitekture srpsko-vizantijskog stila. Po opštem graditeljskom rešenju, arhitektonskim formama i polihromiji fasada, ovaj hram je projektovan prema velikom uzoru, crkvi manastira Gračanica. Opremanje i ukrašavanje hrama još nije završeno.",
+			"adresa":"Bulevar kralja Aleksandra 17",
+			"linije":"2, 3, 6, 7, 10, 15",
+			"referenca":"http://www.crkvasvetogmarka.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Beogradska sinagoga „Sukat Šalom”",
+			"tip":10,
+			"slika":"800px-Beogradska_sinagoga.jpg",
+			"opis":"Beogradska sinagoga „Sukat Šalom” je, trenutno, jedina aktivna jevrejska bogomolja u Srbiji. Nalazi se u centru Beograda, u Ulici maršala Birjuzova 19 i 2013. godine je proglašena za spomenik kulture.",
+			"adresa":"Maršala Birjuzova 19",
+			"linije":"15, 16, 35, 37, 43, 71, 72, 77, 84, 95",
+			"referenca":"http://www.beogradskasinagoga.rs/PO%C4%8CETNA.html",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Kula Nebojša",
+			"tip":8,
+			"slika":"Nebojsina-kula.jpg",
+			"opis":"Kula Nebojša je jedna od najpoznatijih kula u Beogradskoj tvrđavi. Nalazi se u Donjem gradu na ulazu u nekadašnje Dunavsko pristanište. U njoj je za vreme turske vladavine pogubljen grčki revolucionar Riga od Fere.",
+			"adresa":"Bulevar vojvode Bojovića bb",
+			"linije":"2, 5, 10, 11",
+			"referenca":"http://kulanebojsa.rs/%D0%B8%D0%BD%D1%84%D0%BE/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Delta City SC",
+			"tip":11,
+			"slika":"Delta-city.jpg",
+			"opis":"Delta siti 67 d. o. o. Beograd je tržni centar u Novom Beogradu. Otvoren je 1. novembra 2007. godine u bloku 67 u Novom Beogradu, ulica Jurija Gagarina br. 16.",
+			"adresa":"Jurija Gagarina 16",
+			"linije":"7, 7L, 9, 13, 60, 68, 89, 95",
+			"referenca":"http://www.deltacity.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Mercator SC",
+			"tip":11,
+			"slika":"421_lemic_056.jpg",
+			"opis":"Mercator je tržni centar u Beogradu koji se nalazi na adresi Bulevar umetnosti 4",
+			"adresa":"Bulevar umetnosti 4",
+			"linije":"17, 68, 71, 74",
+			"referenca":"http://www.mercator.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Atelje 212",
+			"tip":5,
+			"slika":"01-Atelje-212.jpg",
+			"opis":"Pozorište „Atelje 212“ je osnovano 12. novembra 1956. godine u prostorijama „Borbe“. Prva predstava je bila „Faust“ u režiji Mire Trailović. „Atelje 212“ je osnovala grupa umetnika (reditelja, glumaca, pisaca...) sa željom da napravi teatar u kome će se prikazivati komadi avangardni u odnosu na ostala pozorišta u Beogradu.",
+			"adresa":"Svetogorska 21",
+			"linije":"2, 5, 10, 23, 28, 40, 41, 65, 77",
+			"referenca":"http://atelje212.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Terazije",
+			"tip":9,
+			"slika":"terazi14.jpg",
+			"opis":"Trg Terazije obuhvata područje od Sremske ulice do Ulice kralja Milana. Najpoznatiji je beogradski trg. Počeo je da se formira u prvoj polovini 19. veka; 1840-ih godina, knez Miloš Obrenović naredio je da se srpske zanatlije, naročito kovači i kazandžije, isele iz varoši u šancu, gde su bili izmešani sa turskim življem, i da svoje kuće i radnje podignu na mestu današnjih Terazija. Ilija Čarapić, sin Vase Čarapića, koji je izvesno vreme bio i predsednik Beogradske opštine, imao je poseban zadatak da ovim zanatlijama deli placeve na Terazijama; ko god je pristao da ogradi plac, dobio ga je besplatno.",
+			"adresa":"Terazije",
+			"linije":"15, 16, 21, 22, 31, 33, 43, 44, 67, 68, 84, 95",
+			"referenca":"https://sr.wikipedia.org/sr-el/%D0%A2%D0%B5%D1%80%D0%B0%D0%B7%D0%B8%D1%98%D0%B5_(%D1%83%D0%BB%D0%B8%D1%86%D0%B0_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83)",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Terazijska česma",
+			"tip":2,
+			"slika":"Terazijska_česma_-_003.jpg",
+			"opis":"Terazijska česma nalazi se na Terazijama, ispred hotela „Moskva“. Napravljena je u obliku kamenog stuba, sa metalnom vazom na vrhu, ukupne visine oko 800 cm. Podignuta je 1860. godine po nalogu kneza Miloša, čime je obeležen njegov povratak na presto. Rad je vajara Franca Lorana.",
+			"adresa":"Terazije",
+			"linije":"15, 16, 21, 22, 31, 33, 43, 44, 67, 68, 84, 95",
+			"referenca":"https://www.011info.com/znamenitosti-beograda/stari-grad/terazijska-cesma",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Pozorište na Terazijama",
+			"tip":5,
+			"slika":"pozoriste-investicija-radovi-rekonstrukcija-krov-terazije-1328585176-105028_5064af29825c0.jpg",
+			"opis":"Pozorište na Terazijama je jedini muzički teatar u regionu koji ove sezone proslavlja 67 godina od osnivanja. U prvih dvadeset godina postojanja, repertoar su činile operete i komedije, a 60-ih godina prošlog veka izvode se i prvi licencirani mjuzikli: „Oklahoma“ (1966), „Priča iz zapadnog kvarta“ (1968) i „Poljubi me, Kato“ (1969).",
+			"adresa":"Trg Nikole Pašića 3",
+			"linije":"16, 19, 21, 22, 24, 26, 29, 31, 35, 43, 44, 58, 95",
+			"referenca":"http://pozoristeterazije.com/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Jugoslovensko dramsko pozorište",
+			"tip":5,
+			"slika":"Jdp_04.jpg",
+			"opis":"Jugoslovensko dramsko pozorište osnovano je 1947. godine kao reprezentativno pozorište nove Jugoslavije. Mnogi najznačajniji glumci iz Zagreba, Novog Sada, Sarajeva, Ljubljane i drugih gradova pozvani su da učestvuju u stvaranju ovog pozorišta.",
+			"adresa":"Kralja Milana 50",
+			"linije":"7, 12, 19, 21, 22, 23, 29, 31, 36, 37, 40, 41, 44, 58, 74, 78, 83",
+			"referenca":"http://jdp.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Beogradsko dramsko pozorište",
+			"tip":5,
+			"slika":"Eng_2243_bdp.jpg",
+			"opis":"Beogradsko dramsko pozorište (BDP) (ranije Savremeno pozorište Beograd) osnovano je avgusta 1947. i bilo je prvo gradsko pozorište formirano u Beogradu posle Drugog svetskog rata. Prva premijera „Mladost otaca“ Borisa Gorbatova u režiji Petra S. Petrovića izvedena je 20. februara 1948. u sali Narodnog pozorišta.",
+			"adresa":"Mileševska 64/A",
+			"linije":"19, 21, 22, 29, 83",
+			"referenca":"http://www.bdp.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Hotel Moskva",
+			"tip":7,
+			"slika":"76505261.jpg",
+			"opis":"Hotel Moskva, nekadašnja Palata Rosija je hotel i nekadašnja zgrada osiguravajućeg društva Rosija u Beogradu. Nalazi na uglu Terazija i Balkanske ulice. Zgradu projektovali arhitekta Jovan Ilkić i grupa arhitekata iz Sankt Peterburga. Gradnja palate je otpočela u proleće 1905. godine, a svečano je otvorena 14. januara 1908. godine. Bila je najveća privatna zgrada u Kraljevini Srbiji, nalazila se na stotinak metara od kraljevskog dvora, na Terazijama. Građevina je na svojim zidovima imala natpis Palata Rosija.",
+			"adresa":"Terazije 20",
+			"linije":"15, 19, 21, 22, 24, 26, 27, 29, 31, 37, 44, 58, 67, 68, 71, 72, 75, 84, 704, 706, 707",
+			"referenca":"http://www.hotelmoskva.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Pozorište Boško Buha",
+			"tip":5,
+			"slika":"Pozoriste-Bosko-Buha-620x350.jpg",
+			"opis":"Pozorište „Boško Buha” Beograd je osnovano 13. oktobra 1950. godine, prerastavši iz dotadašnjeg Kulturno-umetničkog društva „Roda“, u prvo srpsko profesionalno pozorište za decu i mlade. Među osnivačima, najistaknutije mesto pripada gospođi Giti Predić-Nušić, ćerki velikog dramskog pisca Branislava Nušića. Pozorište nosi ime u znak sećanja na legendarnog partizanskog borca-bombaša Boška Buhu (1926—1943), koji je bio jedan od najmlađih narodnih heroja Jugoslavije.",
+			"adresa":"Trg republike 3",
+			"linije":"16, 19, 21, 22, 24, 26, 29, 31, 35, 43, 44, 58, 95",
+			"referenca":"http://buha.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Ustanova kulture “Vuk Stefanović Karadžić”",
+			"tip":5,
+			"slika":"Beograd-UK-Vuk-Karadzic-02-470x260.jpg",
+			"opis":"Ustanova kulture „Vuk Karadžić“ nalazi se se u zgradi nekadašnjeg Doma kulture koji je izgrađen krajem pedesetih godina. Gradska opština Zvezdara osnivač je Ustanove kulture „Vuk Karadžić“. Multimedijalnost je osnovna odrednica programske orijentacije UK „Vuk Karadžić“ – na jednom mestu možete gledati pozorišne predstave, slušati dobru muziku ili čuti nešto više o najrazličitijim temama naše svakodnevice.",
+			"adresa":" Bulevar kralja Aleksandra 77a",
+			"linije":"5, 6, 7, 14, 32, 66",
+			"referenca":"http://ukvuk.org.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Restoran Đerdan",
+			"tip":3,
+			"slika":"A8s6-pFCQAATo3P.jpg",
+			"opis":"Restoran Djerdan, vrhunski uzitak za sva cula, kuhinja koja osvaja svojim ukusima, atmosfera i ambijent koji ostavljaju bez daha.",
+			"adresa":"Jelene Mioč 1",
+			"linije":"20, 21",
+			"referenca":"http://www.restorandjerdan.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Restoran Kuhinja",
+			"tip":3,
+			"slika":"restoran-kuhinja-1c.jpg",
+			"opis":"U ulici Vojvode Stepe na tri stanice od autokomande nalazi se \"Kuhinja\". Kuhinja je suština ovog restorana, svi ostali razlozi dolazaka gostiju su sporedni. Ovde se dolazi da se dobro i obilno jede. Kuhinja vam nudi bogat meni po vrlo pristupačnim cenama.",
+			"adresa":"Vojvode Stepe 93",
+			"linije":"9, 10, 14, 33",
+			"referenca":"http://restorankuhinja.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Restoran Čačanin",
+			"tip":3,
+			"slika":"Etno-restoran-cacanin-1.jpg",
+			"opis":"Nacionalna kuća Čačanin svojim raskošnim izgledom čuva i neguje prepoznatljiv tradicionalni duh i šarm starih srpskih domaćina od svog osnivanja davne ' 68.",
+			"adresa":"Borska 94",
+			"linije":"34, 44, 47, 48, 50, 59, 94",
+			"referenca":"http://www.portal-srbija.com/etno-restoran-cacanin",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Mala Fabrika Ukusa",
+			"tip":3,
+			"slika":"restoran_mala_fabrika_ukusa_beograd_basta_nocu.jpg",
+			"opis":"Mala Fabrika Ukusa je porodični restoran u jednom od najlepših delova starog Beograda, čarobnom Neimaru. Očekuju vas predivna bašta i vrhunska hrana…",
+			"adresa":"Nebojšina 49",
+			"linije":"9, 10, 14, 17, 18, 30, 31, 33, 36, 39, 42, 46, 47, 48, 55, 59, 78",
+			"referenca":"http://malafabrikaukusa.com/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Restoran Kovač",
+			"tip":3,
+			"slika":"IMG_5309.jpg",
+			"opis":"Kao sjajan spoj tradicionalnog i savremenog, Kovač predstavlja omiljenu destinaciju poklonika kulta prave kafane. Predivna stara kuća na ćošku, obnovljena i opremljena po najsavremenijim ugostiteljskim standardima, zadržala je svoju vizuelnu autentičnost. Topla domaćinska atmosfera i ljubazno i predusretljivo osoblje, uvešće vas u neki drugi svet u kome nema žurbe i meteža svakodnevice – svet u kome je sve podređeno uživanju u ukusima i mirisima uz zvuke odabrane starogradske muzike.",
+			"adresa":"Bulevar oslobođenja 221",
+			"linije":"9, 10, 14, 33, 47, 48",
+			"referenca":"http://www.restorankovac.com/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Restoran Franš",
+			"tip":3,
+			"slika":"Restoran_Frans.jpg",
+			"opis":"Restoran „Franš“ je mesto koje se može smatrati krunom beogradske gastro ponude već više od 30 godina. Važi za jedno od prestižnih mesta u Beogradu, pa se“Franš“ baš i ne može pohvaliti pristupačnim cenama, ali uovom slučaju se raskoš i fantastična ponuda moraju naplatiti.",
+			"adresa":"Bulevar oslobođenja 18a",
+			"linije":"9, 10, 14, 17, 18, 30, 31, 33, 36, 39, 42, 46, 47, 48, 55, 59, 78",
+			"referenca":"http://www.frans.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Beogradska (Kombank) Arena",
+			"tip":11,
+			"slika":"560z255_DSC_1063.jpg",
+			"opis":"Beogradska arena (iz sponzorskih razloga poznata i kao Kombank arena[2]) višenamenska je dvorana na Novom Beogradu namenjena za sportske, kulturne, zabavne, izložbene i druge manifestacije. Građena je od 1991. godine, da bi upotrebnu dozvolu dobila je 1. oktobra 2007. godine. Kombank arenu izgradio je konzorcijum EPNA - Energoprojekt Visokogradnja i GP Napred. [3] Ukupna cena izgradnje je dostigla 70 miliona evra[3]. Kompleks se sastoji od velike dvorane, male dvorane i parkinga. Projektovao ga je arhitekta Vlada Slavica.",
+			"adresa":"Bulevar Arsenija Čarnojevića 58",
+			"linije":"17, 18, 67, 68, 74, 88, 601",
+			"referenca":"http://www.kombankarena.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Pionirski park",
+			"tip":1,
+			"slika":"Pionirski-park-staze-3.jpg",
+			"opis":"Pionirski park je jedan od centralnih beogradskih parkova, smešten između Bulevara kralja Aleksandra i ulica kralja Milana, kneza Miloša i Dragoslava Jovanovića.",
+			"adresa":"Dragoslava Jovanovića 2",
+			"linije":"19, 21, 22, 24, 26, 27, 29, 31, 37, 44, 58",
+			"referenca":"http://www.bgmap.rs/index.php/sr/beograd/pionirski-park",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"British pub Beograd",
+			"tip":3,
+			"slika":"British-pub-6-1.jpg",
+			"opis":"Prijatna atmosfera, odlična ponuda piva, atraktivna lokacija, kao i profesionalna usluga, čine pivnicu British Pub pravim izborom uvek kada Vam zatreba predah od svakodnevnih obaveza. Naše ljubazno i profesionalno osoblje uvek je tu da Vam svojom besprekornom uslugom obezbedi uživanje na vrhunskom nivou.",
+			"adresa":"Balkanska 28",
+			"linije":"52, 53, 56, 56L",
+			"referenca":"https://www.britishpub.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Queens Pub",
+			"tip":3,
+			"slika":"Galerija-za-queens-pub46348.jpg",
+			"opis":"Ovo je kulturan pab u samom centru Beograda. Toče se velike količine piva koje se ispijaju uz alternative/rock/grunge muziku. I uz kikiriki koji bi trebalo da vam doture uz kupljeno pivo. Pivo od pola litre je 160 dinara, ali se toči i u litarskim kriglama",
+			"adresa":"Braće Jugovića 7",
+			"linije":"35, 58",
+			"referenca":"https://jeftinopivo.rs/pivnica/queens-pub",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Publin",
+			"tip":3,
+			"slika":"20e85c4c19bc2db53fc51a34839c5837.jpg",
+			"opis":"Publin bar je pravi irski pub u srcu Beograda. Ime je dobio spajanjem reči pub I Dublin(glavni grad Irske)",
+			"adresa":"Lomina 63",
+			"linije":"52, 53, 55, 56",
+			"referenca":"http://www.navidiku.rs/firme/pivnice-beograd/lomina-63-savski-venac-beograd",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Spomenik knezu Mihailu Obrenoviću",
+			"tip":2,
+			"slika":"1280px-Prince_Mihailo_monument.jpg",
+			"opis":"Spomenik knezu Mihailu u Beogradu se nalazi na Trgu republike, podignut je 1882. godine, čini ga konjanička figura vladara i posvećen je knezu Mihailu Obrenoviću. Autor spomenika je italijanski skulptor Enriko Paci, dok su reljefi na spomeniku rađeni su prema crtežima arhitekte Konstantina Jovanovića. Spomenik se ubraja u nepokretna kulturna dobra kao spomenik kulture od velikog značaja.",
+			"adresa":"Trg republike",
+			"linije":"24, 26, 27, 27E, 32E, 35, 37, 44, 96",
+			"referenca":"https://sr.wikipedia.org/sr-el/%D0%A1%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA_%D0%BA%D0%BD%D0%B5%D0%B7%D1%83_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D1%83",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Spomenik Dositeju Obradoviću",
+			"tip":2,
+			"slika":"Spomenik_dositeju3.jpg",
+			"opis":"Spomenik je podignut zalaganjem Jovana Skerlića, najvećeg poštovaoca Dositeja Obradovića krajem 19. i početkom 20. veka, i Srpske književne zadruge[5] . Ideja o podizanju spomenika javila se sredinom 19. veka, a ponovo je postala aktuelna 1909. godine, kada su pokrenute aktivnosti povodom obeležavanja stogodišnjice Dositejeve smrti 1911. Tim povodom, oformljen je Odbor za proslavu na čelu sa Stojanom Novakovićem i Jovanom Skerlićem, koji je, pored niza svečanosti, planirao da se u Beogradu podigne spomenik ovoj znamenitoj ličnosti.",
+			"adresa":"Studentski trg bb",
+			"linije":"19, 21, 22, 28, 29, 31, 41",
+			"referenca":"https://sr.wikipedia.org/sr/%D0%A1%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA_%D0%94%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D1%98%D1%83_%D0%9E%D0%B1%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B8%D1%9B%D1%83",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Muzej vazduhoplovstva",
+			"tip":4,
+			"slika":"1280px-Belgrade_Aviation_Museum.jpg",
+			"opis":"Muzej jugoslovenskog vazduhoplovstva (sada: Muzej vazduhoplovstva — Beograd), jedan od vodećih muzeja ovog tipa u svetu, osnovan je 1957. godine, pri Komandi Ratnog vazduhoplovstva (RV i PVO). Od 1989. godine smešten je u modernoj zgradi, na beogradskom aerodromu. 2013, Vlada Srbije je zgradu Muzeja proglasila spomenikom kulture.[1] Muzejske zbirke, uz koje se čuva bogata prateća dokumentacija i arhiva iz svih perioda i oblasti vazduhoplovne istorije, čine najreprezentativniju kolekciju domaćeg i stranog civilnog i vojnog vazduhoplovstva i predstavljaju značajan izvor za sveobuhvatno sagledavanje razvoja avijacije na našim prostorima od 1911. do danas.",
+			"adresa":"Aerodromski put 250",
+			"linije":"72",
+			"referenca":"http://www.muzejvazduhoplovstva.org.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Cineplexx Usce",
+			"tip":6,
+			"slika":"IMG_9170_952x363.jpg",
+			"opis":"Cineplexx Usce je među najnovijim bioskopima u Beogradu. Nalazi se u samom tržnom centru Ušće i sadrži 11 savremenih sala i sve najnovije filmove.",
+			"adresa":"Bulevar Mihajla Pupina 4",
+			"linije":"7, 9, 13, 15, 18, 35, 43, 84",
+			"referenca":"http://www.cineplexx.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Tuckwood",
+			"tip":6,
+			"slika":"tuckulaz.jpg",
+			"opis":"Tuckwood je osnovan 1999. godine. Ima ukupno pet sala sa ukupno 522 sedišta. To je jedini bioskop koji poseduje tri sistema za reprodukciju digitalnog zvuka kao i najbolju tehnologiju za slike. Najveće bioskopske hitove možete gledati iz luksuznih francuskih sedišta, a prostor je odlično klimatizovan.",
+			"adresa":"Kneza Miloša 7",
+			"linije":"6, 7, 12, 19, 21, 22, 23, 24, 26, 27, 29, 31, 37, 40, 41, 44, 58, 74",
+			"referenca":"http://tuck.rs/cms/view.php",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Jugoslovenska kinoteka",
+			"tip":6,
+			"slika":"Kul-kinoteka.jpg",
+			"opis":"Jugoslovenska kinoteka – Ustanova kulture od nacionalnog značaja. Jugoslovenska kinoteka je jedan od osnivača I stalni član Međunarodne federacije filmskih arhiva.",
+			"adresa":"Uzun Mirkova 1",
+			"linije":"2, 11, 19, 21, 22, 28, 29, 31, 41",
+			"referenca":"http://www.kinoteka.org.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Bioskop Roda",
+			"tip":6,
+			"slika":"Roda-cineplex-enterijer-2.jpg",
+			"opis":"Roda Cineplex je kompletno renoviran 2002. godine kada je u prostoru starog bioskopa izgradjen moderan cineplex sa tri bioskopske sale, ukupnog kapaciteta 387 mesta i širokim foajeom u kom je smešten kafe bioskopa. Roda Cineplex često ugošćava filmske umetnike i radnike u kulturi. Kod nas se realizuju premijere igranih i dokumentarnih filmova, organizuju se konferencije za štampu, seminari, susreti. Bioskopski ugodjaj nije kompletan bez kokica i drugih bioskopskih koncesija, koji spadaju u standardnu ponudu našeg bioskopa.",
+			"adresa":"Požeška 83a",
+			"linije":"12, 13, 23, 37, 49, 51, 52, 53, 57, 58, 85, 87, 88",
+			"referenca":"http://www.rodacineplex.com/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Novi bioskop Zvezda",
+			"tip":6,
+			"slika":"bioskop-zvezda-660x420.jpg",
+			"opis":"Novi bioskop Zvezda se nalazi na adresi starog bioskopa Zvezda. Cesto pustaju projekcije I maratone popularnih filmova, a leti nisu retke ni projekcije na otvorenom.",
+			"adresa":"Terazije 40",
+			"linije":"19, 21, 22, 24, 26, 27, 29, 31, 37, 44, 58",
+			"referenca":"http://www.danubeogradu.rs/2017/05/okupirani-bioskop-zvezda-otvaranje-letnje-scene/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Belgrade Art Hotel",
+			"tip":7,
+			"slika":"BAH-1.jpg",
+			"opis":"Belgrade Art Hotel pruža nezaboravno iskustvo ispunjeno istorijskim, kulturološkim i poslovnim trenucima. Kao deo spektakularnog pejzaža Starog grada, u Knez Mihailovoj ulici, na pet minuta laganog hoda do Kalemegdanske, luksuz i nesvakidašnju uslugu. Udobna i spokojna atmosfera moderno opremljenih soba sa pogledom na zadivljujuću arhitekturu tvrđave, Belgrade Art Hotel kombinuje komfor, tradicionalna srpska nacionalna i internacionalna kuhinja su vam na raspolaganju za vreme poslovnog boravka ili odmora.",
+			"adresa":"Kneza Mihaila 27",
+			"linije":"16, 19, 21, 22, 24, 26, 29, 31, 35, 43, 44, 58, 95",
+			"referenca":"http://belgradearthotel.com/?lang=sr",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Petrovaradinska tvrđava",
+			"tip":8,
+			"slika":"petrovaradin-fortress-novi-sad-1068x703.jpg",
+			"opis":"Petrovaradinska tvrđava se nalazi u Novom Sadu, u Autonomnoj pokrajini Vojvodini, Srbija, na petrovaradinskoj steni u mestu Petrovaradin na desnoj obali Dunava. Na mestu prethodne srednjovekovne građevine, sadašnju tvrđavu je izgradila Austrija u periodu od 1692. do 1780. godine zbog stalne opasnosti od Turaka i blizine granice sa Osmanskim carstvom. Zbog svoje veličine i dominantnosti naziva se i Gibraltar na Dunavu.",
+			"adresa":"Beogradska, Petrovaradin, Novi Sad",
+			"linije":"Novosadski GSP 3, 9, 69",
+			"referenca":"http://www.visitnovisad.rs/petrovaradinska_tvrdjava.html",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Smederevska tvrđava",
+			"tip":8,
+			"slika":"1280px-Smederevo_small_town_panorama_2.jpg",
+			"opis":"Smederevska tvrđava je tvrđava u Smederevu koju je na ušću reke Jezave u Dunav u drugoj četvrtini XV veka (od 1428. godine) podigao despot Srbije Đurađ Branković (1427—1456), po njoj nazvan Smederevac. Tvrđava je po svom tipu klasična vodena (opkoljena je Dunavom i Jezavom, a sa juga veštačkim šancem koji povezuje dve reke) ravničarsko utvrđenje što je čini jedinstvenom u srpskoj srednjovekovnoj arhitekturi, a za uzor prilikom gradnje uzet je Carigrad i njegovi bedemi. Prema svojoj površini od 10ha 41a 14m2 (11,3272ha prema merenjima iz 1975. godine) bez spoljašnjeg bedema i kula odnosno 14.5ha sa njima, predstavlja jednu od najvećih tvrđava u Evropi i najveću tog tipa[traži se izvor]. Ima osnovu raznokrakog trougla (550m x 502m x 400m) u čijem je severnom temenu je smešten manji raznokraki trougao (75m x ?m x ?m) koji formira tzv. Mali grad, dok ostatak utvrđenja čini tzv. Veliki grad.",
+			"adresa":"Smederevo",
+			"linije":"Smederevski GSP 23, 24, 37, 58",
+			"referenca":"http://www.smederevskatvrdjava.com/tvrdjava/",
+			"brojac":0
+		}
+	}
+]

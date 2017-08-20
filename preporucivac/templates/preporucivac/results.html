@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %}
+<title>Rezultati pretrage</title>
+<link rel="stylesheet" type="text/css" href="/static/preporucivac/styles/index.css">
+{% endblock %}
+
+{% block content %}
+	<h3>Rezultati pretrage</h3>
+	<div class="container-fluid">
+		<div class="row">
+			{% for mesto in mesta %}
+			<a href="/preporucivac/{{ mesto.id }}/">
+			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 mesto">
+			<table>
+				<tr>
+					<td><img src="/static/preporucivac/images/{{ mesto.slika }}" width=200px height=100px></td>
+					<td style="padding-left: 20px">{{ mesto.naziv }}</td>
+				</tr>
+			</table>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+{% endblock %}

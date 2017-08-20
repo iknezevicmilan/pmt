@@ -1,0 +1,67 @@
+{% extends 'base.html' %}
+
+{% block title %}
+	<title>Registracija</title>
+	<style>
+		#formular-wrapper {
+			text-align: center;
+		}
+		#formular {
+			margin-top: 20px;
+			margin-bottom: 20px;
+			padding: 20px;
+			display: inline-block;
+			text-align: left;
+		}
+	</style>
+{% endblock %}
+
+{% block page %}
+<div class="container-fluid" id="formular-wrapper">
+	<div id="formular">
+		<h2>Registracija</h2>
+		<form method="post">
+			{% csrf_token %}
+			{% for field in form %}
+				{% if field.label_tag == '<label for="id_username">Username:</label>' %}
+				<label for="id_username">Korisničko ime:</label>
+				{% elif field.label_tag == '<label for="id_password1">Password:</label>' %}
+				<label for="id_password1">Lozinka:</label>
+				{% else %}
+				<label for="id_password2">Ponovite lozinku:</label>
+				{% endif %}
+				<br>
+				{{ field }}
+				{% if field.help_text %}
+					<small style="color: grey">
+						{% if field.help_text == 'Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.' %}
+							* Može sadržati najviše 150 znakova. Dozvoljena su slova, brojevi i @/./+/-/_
+						{% elif field.help_text == '<ul><li>Your password can&#39;t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can&#39;t be a commonly used password.</li><li>Your password can&#39;t be entirely numeric.</li></ul>' %}
+							* Ne može biti slična korisničkom imenu. Najmanje 8 znakova. Mora da sadrži barem jedan znak koji nije cifra. Ne sme da bude neka od često koriscenih sifri.
+						{% else %}
+							*
+						{% endif %}
+					</small>
+				{% endif %}
+				{% for error in field.errors %}
+					<p style="color: red">
+					{% if error == 'The two password fields didn\'t match.' %}
+						Lozinka nije ispravno ponovljena.
+					{% elif error == 'This password is too short. It must contain at least 8 characters.' %}
+						Lozinka mora da sadrži najmanje 8 znakova.
+					{% elif error == 'This password is entirely numeric.' %}
+						Lozinka mora da sadrži barem jedan znak koji nije cifra.
+					{% elif error == 'The password is too similar to the username.' %}
+						Lozinka je slična korisničkom imenu.
+					{% else
+						Korisnik sa takvim korisničkim imenom već postoji.
+					{% endif %}
+					</p>
+				{% endfor %}
+				<br><br>
+			{% endfor %}
+			<button type="submit">Registrujte se</button>
+		</form>
+	</div>
+</div>
+{% endblock %}

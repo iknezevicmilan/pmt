@@ -1,0 +1,821 @@
+[
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Hram Svetog Save",
+			"tip":10,
+			"slika":"St-sava-temple-hram-svetog.jpg",
+			"opis":"Hram svetog Save je najveći srpski pravoslavni hram, najveći pravoslavni hram na Balkanu i jedna od najvećih pravoslavnih crkava na svetu. On se nalazi u istočnom delu Svetosavskog trga, na opštini Vračar, u Beogradu. Podignut je na mestu za koje se smatra da je Sinan paša 1595. godine spalio mošti svetog Save, osnivača Srpske pravoslavne crkve. Izgradnja crkve je finansirana dobrovoljnim prilozima i ubiranjem novca putem doplatnih poštanskih maraka.. Nedaleko od hrama je parohijski dom, a tu će se nalaziti i predviđena zgrada patrijaršije. Ovaj spomen-hram predstavlja organski deo savremene živopisne siluete Beograda, čineći jedno od njegovih glavnih obeležja.",
+			"adresa":"Krušedolska 2a",
+			"linije":"9, 10, 14, 31, 42, 56, 78",
+			"referenca":"http://hramsvetogsave.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Knez Mihailova",
+			"tip":11,
+			"slika":"Knez-mihajlova-ulica-beograd.jpg",
+			"opis":"Knez Mihailova ulica je pešačka zona i trgovačko središte Beograda. Zakonom je zaštićena kao jedan od najstarijih i najvrednijih gradskih spomeničkih prostora u Beogradu, s nizom reprezentativnih zgrada i građanskih kuća nastalih krajem 70-ih godina 19. veka. Smatra se, da je još u vreme Rimljana ovde bilo središte naselja Singidunum, a u vreme Turaka na ovom području krivudale su ulice s vrtovima, česmama i džamijama. Sredinom 19. veka ovde je u gornjem delu bio vrt kneza Aleksandra Karađorđevića. Nakon izrade regulacijskog plana Beograda, koji je 1867. izradio Emilijan Josimović, ulica je brzo izgrađena i dobila svoju fizionomiju i sadržaj. U njoj se grade kuće i nastanjuju najuticajnije i najbogatije porodice trgovačkog i političkog Beograda. Godine 1870. Uprava grada je i službeno krstila ulicu dajući joj ime - ulica Kneza Mihaila po Mihailu Obrenoviću.",
+			"adresa":"Knez Mihailova ulica",
+			"linije":"2, 11, 19, 21, 22, 26, 31, 41",
+			"referenca":"https://noviapartmani.com/blog/vodic-kroz-beograd/knez-mihailova-vodic-beograd-apartmani/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Avalski toranj",
+			"tip":11,
+			"slika":"Avala_Tower.jpg",
+			"opis":"Avalski televizijski toranj je toranj na planini Avali, pored Beograda. Prvobitno pušten u rad 1965, srušen je u NATO bombardovanju SR Jugoslavije 29. aprila 1999. Nakon obnove u trajanju od tri godine, Avalski toranj je otvoren u prisustvu državnog vrha Republike Srbije 21. aprila 2010.",
+			"adresa":"Put za Avalu bb",
+			"linije":"400",
+			"referenca":"http://avalskitoranj.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Muzej Jugoslavije",
+			"tip":4,
+			"slika":"Muzej-istorije-jugoslavije-1024x419.jpg",
+			"opis":"Muzej Jugoslavije, muzejska institucija kojoj delatnost obuhvata prikupljanje, čuvanje, obradu i prezentaciju umetničko-istorijskih dela što pripadaju kulturnoj baštini iz istorijskog perioda u kome je postojala država Jugoslavija. Pod nazivom Muzej istorije Jugoslavije osnovan je 1996. objedinjavanjem istorijsko-dokumentarnog i umetničkog materijala Muzeja revolucije naroda i narodnosti Jugoslavije i Memorijalnog centra »Josip Broz Tito«. U sastavu muzeja danas se nalaze Kuća cveća, Stari muzej i Muzej »25. maj«. Pod sadašnjim nazivom deluje od 1. decembra 2016.",
+			"adresa":"Mihaila Mike Jankovića 6",
+			"linije":"40, 41",
+			"referenca":"http://www.mij.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Košutnjak",
+			"tip":1,
+			"slika":"Kosutnjak-hill.jpg",
+			"opis":"Košutnjak je ime za šumu i naselje u Beogradu u gradskim opštinama Čukarica i Rakovica. Park-šuma i gradsko izletište Košutnjak prostire se na površini od 330 hektara, na nadmorskoj visini od 250 m. Šuma listopadnog i četinarskog drveća ispresecana je mnogobrojnim stazama. Verovatno je ime Košutnjak nastalo zbog košuta, kojih je nekad ovde bilo. Sve do 1903. gusta šuma bila je zatvoreno dvorsko lovište, a potom je Košutnjak otvoren i za građane. U Košutnjaku su i dva posebno uređena kompleksa: Pionirski grad, sportsko-rekreativni centar, i Filmski grad sa kompleksom ateljea i drugih objekata i uređaja za proizvodnju filmova. Sportsko-rekreativni centar „Košutnjak“ ima igrališta za fudbal, atletska takmičenja, odbojku, košarku, rukomet, pet otvorenih i jedan zatvoren bazen. Za ljubitelje skijanja u Košutnjaku radi letnja i zimska ski-staza.. U podnožju brda, gde je nekada bilo lovište kneževske porodice Obrenović, nalazi se izvor Hajdučka česma. U Košutnjaku se nalaze Fakultet sporta i fizičkog vaspitanja Univerziteta u Beogradu i sedište Republičkog hidrometeorološkog zavoda Srbije. U istoriji je poznat kao mesto ubistva kneza Mihaila Obrenovića, 29. maja 1868. godine.",
+			"adresa":"Kneza Višeslava 150",
+			"linije":"53",
+			"referenca":"http://www.bgmap.rs/index.php/sr/beograd/suma-kosutnjak",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Kalemegdan",
+			"tip":8,
+			"slika":"Kalemegdan (2).jpg",
+			"opis":"Kalemegdan je najveći beogradski park. Istovremeno je i najznačajniji kulturno-istorijski kompleks, u kojem dominira Beogradska Tvrđava iznad ušća Save u Dunav. Naziv Kalemegdan odnosi se samo na prostorni plato oko Tvrđave koji je osamdesetih godina 19. veka pretvoren u park. Plato je, dok je Tvrđava bila glavno vojno uporište Beograda, služio da se neprijatelj osmotri i sačeka za borbu; zbog toga i njegovo ime potiče od borba. Turci su Kalemegdan nazivali i Fićir-bajir što znači \"breg za razmišljanje\".",
+			"adresa":"Mali Kalemegdan bb",
+			"linije":"2, 5, 10, 11",
+			"referenca":"http://www.beogradskatvrdjava.co.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Zoološki vrt",
+			"tip":11,
+			"slika":"zooloski-vrt-01-660x400.jpg",
+			"opis":"Zoološki vrt grada Beograda (kraće Beo zoo vrt, kolokvijalno Vrt dobre nade), zoološki vrt osnovan 1936. u Beogradu. Nastao je na inicijativu Vlade Ilića, industrijalca i tadašnjeg beogradskog gradonačelnika. Smešten je u centru grada u Kalemegdanskom parku, podno tvrđave Kalemegdan, na prostoru poznatu kao Mali Kalemegdan. Zoološki vrt prostire se na površini od oko 7 hektara i u njem živi 2000 životinja, što predstavljaju više od 250 životinjskih vrsta. Zoo poseduje i divlje i domaće životinje. Današnji izgled zoološkog vrta čini 15-ak nastambi, nekoliko pojilišta i fontana, galerija drvenih skulptura, rad vajara Vuka Bojovića, i vrtić za prinove poznat kao »Bebi zoo-vrt«. Među bivšim i sadašnjim stanovnicima zoološkog vrta ističu se Sami, prvi šimpanza u zoološkom vrtu, Gabi, ženka nemačkog ovčara, i Muja, najstariji živući američki aligator na svetu.",
+			"adresa":"Mali Kalemegdan 8",
+			"linije":"2, 5, 10, 11",
+			"referenca":"http://www.beozoovrt.rs/o-nama/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Botanička bašta Jevremovac",
+			"tip":11,
+			"slika":"Botanicka-basta-japanski-vrt.jpg",
+			"opis":"Botanička bašta \"Jevremovac\" je jedinica Biološkog fakulteta Univerziteta u Beogradu. Osnovana je 1874. odlukom Ministarstva prosvete Kraljevine Srbije, na predlog Josifa Pančića, koji je bio i njen prvi upravnik. Godine 1889. godine kralj Milan Obrenović poklonio je imanje (koje je nasledio od svog dede Jevrema) Velikoj školi u Beogradu za Botaničku baštu, ali pod uslovom da se zove \"Jevremovac\". Na tom mestu i pod tim imenom nalazi se i danas.Botanička bašta se prostire na površini od oko 5 hektara, gde se na otvorenom prostoru nalazi preko 350 vrsta drveća i žbunja, domaćih, evropskih i egzotičnih biljaka, a ukupan biljni fond danas čini preko 1500 drveta, žbunja i zeljastih biljaka. Botanička bašta obuhvata pored otvorenih površina, Staklenu baštu i prostorije Instituta za botaniku (upravna zgrada, herbar, biblioteka, slušaonica, laboratorije).",
+			"adresa":"Takovska 43",
+			"linije":"2, 5, 10, 16, 23, 27E, 28, 32E, 35, 40, 43, 58, 79, 95, 96, E6",
+			"referenca":"http://jevremovac.bio.bg.ac.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Narodni muzej",
+			"tip":4,
+			"slika":"1200px-Narodni_muzej_Beograd.jpg",
+			"opis":"Narodni muzej u Beogradu osnovan је 1844. i najstarija je muzejska ustanova u Srbiji. U okviru Narodnog muzeja djeluju i slijedeće beogradske muzejske ustanove; Galerija fresaka, Vukov i Dositejev muzej i Spomen-muzej Nadežde I Rastka Petrovića.",
+			"adresa":"Trg republike 1a",
+			"linije":"24, 26, 27, 27E, 31, 32E, 35, 37, 43, 44, 96, 9, 21, 22, 22L, 28, 29, 41, E2, E8",
+			"referenca":"http://www.narodnimuzej.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Bogorodična crkva Ružica",
+			"tip":10,
+			"slika":"Ružica_church,_Belgrade,_Serbia.jpg",
+			"opis":"Bogorodična crkva Ružica je crkva koja se nalazi u severnoistočnom podgrađu Beogradske tvrđave, ispod Zindan-kapije. U doba despota Stefana Lazarevića postojala je stara crkva istog imena, koju su Turci pri osvajanju Beograda 1521. godine porušili. Sadašnja crkva bila je u 18. veku barutni magacin, koji je 1867-69. godine pretvoren u vojnu crkvu.",
+			"adresa":"Kalemegdan gornji grad 6",
+			"linije":"2, 5, 10, 11",
+			"referenca":"http://crkvaruzica.com/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Crkva Svete Petke",
+			"tip":10,
+			"slika":"slika_3486_St_Petka_Church.jpg",
+			"opis":"Crkva Svete Petke se nalazi u Donjem Gradu Beogradske tvrđave i podignuta je na mestu čudotvornog izvora, u neposednoj blizini crkve Ružica, podignute posle 1867. godine. Sadašnja kapela je sagrađena 1937. godine po projektu arhitekte Momira Korunovića. Njene unutrašnje zidove i svodove pokrivaju mozaici, koje je 1980-83. godine izradio slikar Đuro Radulović.",
+			"adresa":"Kalemegrad donji grad bb",
+			"linije":"2, 5, 10, 11",
+			"referenca":"https://sh.wikipedia.org/wiki/Crkva_Svete_Petke_u_Beogradu",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Zemunski park",
+			"tip":1,
+			"slika":"Zemunski-park.jpg",
+			"opis":"Gradski park u Zemunu nalazi se na obodu starog jezgra grada. Oivičen je ulicama: Nemanjinom, 22. oktobra, Vrtlarskom, Savskom i Nikolaja Ostrovskog i zauzima površinu od 7,72 -{ha}-. Pokriven je listopadnim i zimzelenim drvećem, od kojeg je 15 stabala pod zaštitom države.",
+			"adresa":"Gradski park",
+			"linije":"15, 17, 73, 81, 81L, 82, 84, 85, 88, 610, 611, 612, 703, 704, 705, 706, 706E, 707",
+			"referenca":"https://sh.wikipedia.org/wiki/Gradski_park_u_Zemunu",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Zemunski kej",
+			"tip":1,
+			"slika":"0a342269-f171-4e56-b473-1ba8523e90f7.jpg",
+			"opis":"Zemunski kej (zvanični naziv: Kej oslobođenja) je naselje i šetalište u Beogradu, koje se nalazi na teritoriji opštine Zemun. Zemunski kej se nalazi na desnoj obali Dunava. Šetalište koje nosi zvanični naziv „Kej Oslobođenja“ počinje ispod brda i naselja Gardoš i doseže do opštine Novi Beograd. Na istoku se graniči sa naseljima Donji Grad i Retenzija, dok se na jugu graniči sa Ušćem i Novim Beogradom. Zemunski kej je glavno područje za brojne plovne objekte. Takođe, kako obala, a samim tim i šetalište, prate liniju obližnjeg Velikog ratnog ostrva, tu je početak pontonskog mosta koji periodično povezuje ostrvo i plažu Lido sa kopnom i koji se na tom mestu postavlja svakog leta.",
+			"adresa":"Kej oslobođenja 69",
+			"linije":"15, 17, 73, 82, 84, 85, 88, 610, 611, 612, 703, 704, 705, 706, 706E, 707",
+			"referenca":"https://sh.wikipedia.org/wiki/Zemunski_kej",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Gardoš",
+			"tip":8,
+			"slika":"Gardos-2.jpg",
+			"opis":"Gardoš je gradsko naselje i uzvišica u Beogradu, koje se nalazi na teritoriji opštine Zemun. Na osnovu arheoloških iskopavanja na području Gardoša i Zemuna utvrđeno je da se na ovom području živelo već u doba starčevačke i vinčanske kulture. U Antičko doba u ravnici ispred uzvišica Gardoš, Ćukovac i Kalvarija prostiralo se rimsko naselje Taurunum. Dolaskom Slovena na Balkan to naselje prema zemunicama dobija naziv Zemun. U Srednjem veku na uzvišici iznad Zemuna sa desne obale Dunava podiže se utvrđenje koje ima za cilj kontrolu saobraćaja Dunavom. Vremenom se oko utvrđenja pormira naselje. Na osnovu istorijskog istraživanja naziv Gardoš ima koren slovenskog porekla tj. izmenjen oblik slovenske imenice „grad“ kojoj su Mađari kasnije dodali nastavak OŠ. Prema drugom tumačenju Gar-doš predstavlja groblje, što nije bez osnova jer su tu nađeni grobovi još iz keltskog doba. Predmeti nađeni tokom arheoloških istraživanja, oruđa i oružje napravljenih od glačanog kamena i kostiju, keramičko posuđe i ukrasi nalaze se i čuvaju u Zavičajnom muzeju u Zemunu (Špirtina kuća).",
+			"adresa":"Grobljanska bb",
+			"linije":"17, 73, 84, 703, 704, 705, 706, 706E",
+			"referenca":"https://sh.wikipedia.org/wiki/Gardo%C5%A1",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Kula Gardoš",
+			"tip":11,
+			"slika":"kula-gardos-02-wikipedia.jpg",
+			"opis":"Gardoš je jedno od najpopularnijih zemunskih naselja (ako ne i najpopularnije), koje je dobilo ime po istoimenom brdu. Pored brda Gardoš, tu su i brda Kalvarija i Ćukovac, i na ta tri brda se razvijao sam Zemun i njegov centar. Samo naselje se gradilo i razvijalo oko brda, sa svojim uskim i kratkim ulicama, koje uz miris reke i keja, koji dopire dotle u proleće i leto, podseća i daje šarm Mediterana. Glavni istorijski artifakt i građevina koja privlači najveći broj turista je svakako Kula na Gardošu, iliti Milenijumska Kula, podignuta davne 1896. u sklopu proslave, 1000 godina od doseljnja Mađara u Panonsku niziju. Tada je podignuto pet identičnih kula u celoj Panoniji, ali su do dana današanjeg očuvane samo Budimpeštanska i Zemunska. Narod ju je prozvao kula Janka Sibinjanina, velikog ugarskog vojskovođe, koga istorija pamti i kao Janoša Hunjadija. Kula je imala raznorazne funkcije, od mitraljeskog gnezda, pa sve do umetničkog ateljea. I danas u prizemlju kule je umetnička galerija, koja je zaštićena kao i celi kompleks, kao deo kulturno – istorijske celine ’’Staro Jezgro Zemuna’’.",
+			"adresa":"Grobljanska bb",
+			"linije":"17, 73, 84, 703, 704, 705, 706, 706E",
+			"referenca":"https://sh.wikipedia.org/wiki/Gardo%C5%A1",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Park Ušće",
+			"tip":1,
+			"slika":"usce1.jpg",
+			"opis":"Park Ušće nalazi se na ušću reke Save u Dunav. Park ima staze sa šetanje I biciklističku stazu. U parku se nalazi I spomenik “Večna vatra”. Spomnik je podignut u znak sećanja na žrtve NATO bombardovanja Savezne Republike Jugoslavije.",
+			"adresa":"Park Ušče",
+			"linije":"15, 84, 704, 706, 707",
+			"referenca":"https://sr.wikipedia.org/wiki/%D0%A3%D1%88%D1%9B%D0%B5_(%D0%9D%D0%BE%D0%B2%D0%B8_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4)E%D0%B3%D1%80%D0%B0%D0%B4)",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Lido",
+			"tip":1,
+			"slika":"54349881.jpg",
+			"opis":"Lido je plaža na Velikom ratnom ostrvu u Beogradu, koje se nalazi na teritoriji opštine Zemun. Plaža Lido se nalazi na severnom špicu Velikog ratnog ostrva na Dunavu. To je mala, peščana plaža, koja obuhvata samo mali deo ostrva, jer je celo Veliko ratno ostrvo zaštićeno zakonom i urbanizacija nije dozvoljena. Plaža je dobila ime po Lidu iz Venecije, i prvobitno je razvijena kao divlja plaža koja predstavlja alternativu mnogo popularnijoj i zvaničnoj plaži i parku Adi Ciganliji. Uprkos tome što je veoma popularna prvenstveno među stanovnicima Zemuna i Novog Beograda, nikada nije uspela da se približi Adi Ciganliji po popularnosti. Plaža je mala, bez nadzora i bez gotovo ikakvog smeštaja, osim nekoliko restorana. Do početka 2000ih godina, do plaže se moglo stići samo čamcem. Od 2000ih, svakog leta srpska vojska postavlja pontonski most, kojim se stiže pravo do plaže. Organizacija festivala „EHO“ koji je održan na ostrvu početkom 2003. godine bila je katastrofalna zbog lošeg vremena i finansijske malverzacije od strane organizatora.",
+			"adresa":"Zemunski kej bb",
+			"linije":"15, 17, 73, 82, 84, 85, 88, 610, 611, 612, 703, 704, 705, 706, 706E, 707",
+			"referenca":"https://sr.wikipedia.org/sr-el/%D0%9B%D0%B8%D0%B4%D0%BE_(%D0%97%D0%B5%D0%BC%D1%83%D0%BD)",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Ada Ciganlija",
+			"tip":1,
+			"slika":"Andjelina-protic-ada-ciganlija.jpg",
+			"opis":"Ada Ciganlija je rečno ostrvo na Savi u Beogradu koja je veštačkim putem pretvorena u poluostrvo. Takođe to je ime za susedno Savsko jezero nastalo pregrađivanjem Save i plaže na jezeru. Ada Ciganlija je u prošlih nekoliko decenija pretvorena od mesta poznatog po zatvoru i izvršenju smrtnih kazni u izuzetno popularnu višefunkcionalnu rekreacionu zonu u Beogradu, poznatu po svojim plažama i sportskim objektima, koje tokom leta imaju preko 100.000 posetilaca tokom radnih dana  i do 300.000 posetilaca vikendom. Zbog svoje popularnosti Ada Ciganlija se često u žargonu naziva beogradskim morem.",
+			"adresa":"Ada Ciganlija 2",
+			"linije":"52, 53, 56, 56L, 23, 88, 85, 511, 91, 92, 55, 47",
+			"referenca":"http://www.adaciganlija.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Muzej Savremene Umetnosti",
+			"tip":4,
+			"slika":"31228022.jpg",
+			"opis":"Muzej savremene umetnosti u Beogradu prikuplja, čuva, proučava, publikuje i izlaže jugoslovensku i srpsku umetnost od 1900. godine do danas. Savet Moderne galerije 1965. usvaja novi naziv - Muzej savremene umetnosti koji je te godine otvoren 20. oktobra. Za upravnika je imenovan njegov inicijator i osnivač Miodrag B. Protić. Osnovnu koncepciju i fizionomiju Muzeja savremene umetnosti u Beogradu načinio je Miodrag B. Protić. Radi toga on je boravio u Parizu 1953-1954. i 1957. godine, a posebno je bio značajan njegov studijski boravak u Njujorku 1963. gde je detaljno proučio organizaciju, strukturu i postavku Muzeja moderne umetnosti čiji je direktor bio Alfred Hamilton Bar, pisac i profesor, osnivač moderne muzeologije. Na osnovu tih saznanja i iskustava Protić je koncipirao beogradski Muzej savremene umetnosti formirajući zbirke za slikarstvo, skulpturu, grafiku i crteže i odelenje za umetničku dokumentaciju. Osnovan je i atelje za konzervaciju i restauraciju. Od 1974. u Muzeju postoji Centar za vizuelnu kulturu i informacije (kao deo obrazovnog programa), a posle 2001. godine ustanovljeno je Odelenje za dizajn i multimedije i Dečiji klub.",
+			"adresa":"Ušće 10",
+			"linije":"15, 84, 704, 706, 707",
+			"referenca":"http://www.msub.org.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Muzej primenjene umetnosti",
+			"tip":4,
+			"slika":"download.jpg",
+			"opis":"Muzej primenjene umetnosti u Beogradu osnovan je 6. novembra 1950. godine, i pripada kategoriji umetničkih muzeja specijalizovanog tipa. Osnovna delatnost muzeja je da prikuplja, čuva, proučava i izlaže predmete primenjene umetnosti. Pored nacionalne umetnosti, radi se na prikupljanju i predstavljanju dela primenjene umetnosti iz drugih delova Evrope i sveta, koji je preko kulturnih i privrednih veza došao na naše prostore.Zgrada Muzeja primenjene umetnosti podignuta je u periodu od 1927. do 1929. godine.[1] Sagrađena je kao dvospratna palata u akademskom stilu, sa reprezentativnim ulazom i prostranim mermernim stepeništem sa ogradom od kovanog gvožđa. Iako su vremenom vršene različite adaptacije, zdanje je sačuvalo duh vremena u kome je podignuto. Autori ovog markantnog objekta beogradske međuratne arhitekture su arhitekti Stevan Belić (projekat), Nikola Krasnov (fasada) i Neregar (unutrašnja dekoracija). Muzej je lociran u samom srcu Beograda, blizu Knez Mihailove ulice, koja je glavna trgovačka ulica u gradu i ujedno i pešačka zona koja vodi ka najznačajnijem turističkom spomeniku Beograda, srednjovekovnoj tvrđavi Kalemegdan.",
+			"adresa":"Vuka Karadžića 18",
+			"linije":"15, 16, 27E, 35, 43, 60, 65, 67, 68, 71, 72, 75, 77, 84, 95, E6, EKO1",
+			"referenca":"https://www.mpu.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Muzej Nikole Tesle",
+			"tip":4,
+			"slika":"Muzej_Nikole_Tesle.jpg",
+			"opis":"Muzej Nikole Tesle je osnovan 5. decembra 1952. godine. Smešten je u Ulici Krunskoj 51, u zgradi sagrađenoj između 1927. i 1929. godine kao kuća Đorđa Genčića po projektu arhitekte Dragiše Brašovana. Zgrada muzeja je proglašena za spomenik kulture 1987. godine. Muzej ima stalnu postavku, i u jednom delu je posvećena životu i radu Nikole Tesle, a u drugom je predstavljen razvoj nauke o elektricitetu i magnetizmu. Najzanimljiviji deo je sa autentičnom dokumentacijom i radnim modelima Teslinih izuma. Generalni direktor Uneska Koićiro Macuura je doneo 16. oktobra 2003. godine odluku o upisu arhivske građe iz zaostavštine Nikole Tesle u registar Uneska „Pamćenje sveta“.",
+			"adresa":"Krunska 51",
+			"linije":"2, 3, 6, 7, 10, 12, 14, 24, 26, 27, 33, 48, 74, EKO1",
+			"referenca":"http://nikolateslamuseum.org/web/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Spomenik Večna vatra",
+			"tip":2,
+			"slika":"naslovna14.jpg",
+			"opis":"Spomenik „Večna vatra“ nalazi se u Parku Prijateljstva na Ušću u Beogradu. Podignut je u znak sećanja na žrtve NATO bombardovanja Savezne Republike Jugoslavije. Autor spomenika je akademski vajar Svetomir Radović. Spomenik je svečano otkriven 12. juna 2000. povodom godišnjice završetka NATO bombardovanja, u prisutvu najviših državnih zvaničnika. Skrnavljenje i zapuštanje spomenika-Plamen na „Večnoj vatri“ se viorio do 5. oktobra 2000. Tada su se povukli policajci koji su obezbeđivali spomenik, a nepoznati huligani su upali u objekat odakle je stizao gas, oštetili instalacije i tako ugasili „Večnu vatru“. Drugi su razvalili ulazna vrata i ušli u obelisk. Onda je u istoj noći grupa mladih poskidala i odnela skupocene reflektore. Ubrzo nakon toga, spomenik je išaran grafitima koji su potpuno prekrili natpise i narušili izgled spomenika. Nakon toga skinuta su slova sa teksta „Večna vatra“ u kojem je bilo navedeno kome je spomenik posvećen. Spomenik je bio zapušten sve do 2009. godine kada su zahvaljujući inicijativi Kluba generala i admirala Srbije, iscrtane poruke prefarbane, prilaz „Večnoj vatri” je očišćen, ali plamen nije ponovo zasijao.",
+			"adresa":"Park Ušče",
+			"linije":"15, 84, 704, 706, 707",
+			"referenca":"https://sr.wikipedia.org/sr-el/%D0%A1%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA_%D0%92%D0%B5%D1%87%D0%BD%D0%B0_%D0%B2%D0%B0%D1%82%D1%80%D0%B0",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Madlenianum",
+			"tip":5,
+			"slika":"2.jpg",
+			"opis":"Opera i teatar Madlenijanum (latinicom češće Madlenianum, po zvaničnoj stranici) prva je privatna opera i pozorišna kompanija, kako u Srbiji, tako i u jugoistočnoj Evropi. Osnovala ga je Madlena Cepter, supruga Filipa Ceptera, srpskog biznismena. Ime Madlenijanuma potiče od imena Madlene Cepter.Madlenijanum je osnovan 26. januara 1999. u zgradi u kojoj se prethodno nalazila druga zgrada Narodnog pozorišta u Beogradu. Nakon sedam godina rada i pet različitih faza rekonstrukcije, 19. aprila 2005. potpuno renovirano, rekonstruisano i konceptualno obogaćeno zdanje otvorilo je svoja vrata za javnost. Nalazi se u starom gradskom jezgru Zemuna, koji je prostorno kulturno-istorijska celina od izuzetnog značaja. U pozorištu se prikazuju opera, balet, koncerti, kao i dramski i muzički program.",
+			"adresa":"Glavna 32",
+			"linije":"17, 73, 84, 703, 704, 705, 706, 706E, 707",
+			"referenca":"http://operatheatremadlenianum.com/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Skadarlija",
+			"tip":11,
+			"slika":"Skadarlija-BMH-4-1540x805_c.jpg",
+			"opis":"Skadarlija je boemska četvrt u centru Beograda (Skadarska ulica). Svakog dana Skadarliju poseti oko 20.000 ljudi. Skadarska ulica, dužine oko 500 metara, nalazi se u najstrožem centru Beograda. Zbog blizine Narodnog pozorišta, tu su krajem 19. i početkom 20. veka stanovali mnogi glumci. Uz glumce su naravno došli i drugi umetnici, pesnici, pisci, slikari. Skadarlija, koja je počela da liči na ostale ulice Beograda, je za potrebe turizma rekonstruisana da ponovo liči na Skadarliju sa početka 20. veka. Skadarlija je danas jedno od obaveznih mesta koje posećuju strani turisti. Tu su čuvene kafane Tri šešira, Dva jelena, Ima dana..., Putujući glumac, u kojem se osim restorana sa nacionalnom i italijanskom kuhinjom pruža i usluga smeštaja. U okviru restorana Putujući glumac nalazi se kompleks -{Travelling Actor}-. Skadarlija je i mesto gde se posle svadbe dolazi na jelo i provod. Naravno, sve domaće đakonije su na meniju pomenutih kafana, samo treba poneti deblji novčanik. Na Skadarliju se naslanja i nekadašnja Beogradska industrija piva, tu su pekare, poslastičarnica, galerije i kafići, pa čak i jedna škola. Postoji i pivnica i tržni centar, a ima se šta pojesti i stojeći, kupovinom hrane iz okolnih kioska. Na dnu Skadarlije (ulica je blago strma) je i druga po veličini, beogradska pijaca Bajloni.",
+			"adresa":"Skadarlija",
+			"linije":"2, 5, 10, 16, 58, 95, 96",
+			"referenca":"https://sh.wikipedia.org/wiki/Skadarlija",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Saborna crkva",
+			"tip":10,
+			"slika":"maxresdefault.jpg",
+			"opis":"Saborna crkva u Beogradu, u ulici kneza Sime Markovića, podignuta je na temeljima stare crkve, koja se pominje u vrijeme austrijske vladavine Beogradom od 1717. do 1739. godine. Stara crkva, koja je bila izgrađena od kamena, s velikim kubetom, bez krsta, bila je toliko uništena poslije predaje Beograda 1739. godine, da je 1763. godine morala biti srušena. Na njenom mjestu sagrađena je nova crkva od drveta, koju je 1795. godine zamijenila crkva od čvrstog materijala ali bez zvonika. Zvono je prvi put zazvonilo u Beogradu pod Turskom, 16. februara 1830. godine, a donijeto je iz sremskog sela Jakova. Današnja Saborna crkva je građena nepunih devet godina, od 28. aprila 1837. godine do 8. novembra 1845. godine ponalogu kneza Miloša Obrenovića. Posvećena je arhanđelu Mihajlu, krsnoj slavi kneza Miloša, koji je crkvu dao zidati kao svoju zadužbinu. Crkvu je projektovao Franc Janke po ugledu na srpsku crkvu u Sremskim Karlovcima, u stilu klasicizma sa elementima kasnog baroka. Idejno rješenje dao je baron Kordon, a crkvu su sagradili pančevački i zemunski majstori.",
+			"adresa":"Kneza Sime Markovića 3",
+			"linije":"2, 11",
+			"referenca":"https://www.saborna-crkva.com/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Patrijaršija",
+			"tip":10,
+			"slika":"1105922375.jpg",
+			"opis":"Današnja palata Patrijaršije je smeštena na prostoru Varoš kapije, odnosno Kosančićevog venca, koji se kao toponim odomaćio nakon 1872. godine. U ovom delu Beograda koji se prostire na delu Savske padine, još od turskog osvajanja 1521. godine formira se srpsko naselje, čije je središte predstavljala stara crkva Sv. Arhanđela Mihaila (nalazila se na mestu današnje Saborne crkve). Zgrada Patrijaršije ima status spomenika kulture.",
+			"adresa":"Kalemegdan 14",
+			"linije":"2, 11",
+			"referenca":"https://sr.wikipedia.org/sr/%D0%97%D0%B3%D1%80%D0%B0%D0%B4%D0%B0_%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D1%98%D0%B0%D1%80%D1%88%D0%B8%D1%98%D0%B5",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Konak kneginje Ljubice",
+			"tip":11,
+			"slika":"Filename-beograd-konak.jpg",
+			"opis":"Konak kneginje Ljubice nalazi se u Beogradu, u ulici kneza Sime Markovića broj 8. Zbog svog istorijskog i arhiktetonskog značaja konak ima status spomenika kulture od izuzetnog značaja.",
+			"adresa":"Kneza Sime Markovića 8",
+			"linije":"2, 11",
+			"referenca":"https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B0%D0%BA_%D0%BA%D0%BD%D0%B5%D0%B3%D0%B8%D1%9A%D0%B5_%D0%89%D1%83%D0%B1%D0%B8%D1%86%D0%B5",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Konak kneza Miloša u Topčideru",
+			"tip":11,
+			"slika":"1200px-Konak_Kneza_Miloša,_pogled_kroz_platan.jpg",
+			"opis":"Konak kneza Miloša u Topčideru je konak koji je za Miloša Obrenovića podignut 1831. godine, nakon što je Srbija dobila autonomni status u okviru Osmanskog carstva, a knez Miloš nasledno kneževsko dostojanstvo. Ispred ovog zdanja je jedan od najstarijih i najlepših platana u Evropi, zaštićen kao prirodna retkost (ima više od 160 godina). Posle konaka za svoju ženu i decu u beogradskoj varoši, knez Miloš Obrenović podigao je 1831-1834. i za sebe konak u Topčideru.",
+			"adresa":"Topčiderska 1",
+			"linije":"3, 49, 94",
+			"referenca":"https://sh.wikipedia.org/wiki/Konak_kneza_Milo%C5%A1a_u_Top%C4%8Dideru",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Kafana “?” (znak pitanja)",
+			"tip":3,
+			"slika":"Kafana-znak-pitanja.jpg",
+			"opis":"Kafana „?” (takođe Kafana „Znak pitanja” / Kafana „Upitnik”) jedna je od najstarijih kuća u Beogradu i najstarija sačuvana beogradska kafana. Smeštena je u ulici Kralja Petra br. 6, u nekadašnjoj Glavnoj čaršiji. Zgrada ima status spomenika kulture, a sa svojih skoro pa 200 godina starosti predstavlja i jedno od najboljih obeležja grada.",
+			"adresa":"Kralja Petra 6",
+			"linije":"2, 11, 15, 16, 27E, 35, 43, 60, 65, 67, 68, 71, 72, 75, 77, 84, 95, E6, EKO1",
+			"referenca":"https://sr.wikipedia.org/sr/%D0%9A%D0%B0%D1%84%D0%B0%D0%BD%D0%B0_%E2%80%9E%3F%E2%80%9D",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Kafana Tri šešira",
+			"tip":3,
+			"slika":"31844387.jpg",
+			"opis":"\"Tri Šešira\" je pravi biser među restoranima Skadarlije. Sagrađen je u srcu Skadarske ulice i u prepoznatljivom ambijentu postoji više od 150 godina. Otvoren je 1864. u zgradi u kojoj se prethodno nalazila zanatska radionica, koja je kao logotip imala tri plehana šešira. Po tome je restoran i dobio naziv. ",
+			"adresa":"Skadarska 29",
+			"linije":"2, 5, 10, 16, 24, 26, 27, 27E, 28, 32E, 35, 37, 41, 43, 44, 58, 65, 77, 79, 95, 96, E2, E6",
+			"referenca":"http://www.trisesira.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"KSC Pinki Zemun",
+			"tip":11,
+			"slika":"Hala-Pinki.jpg",
+			"opis":"Kulturno sportski centar Pinki ili samo hala Pinki je sportski centar u Zemunu, Beograd, Srbija. Ime je dobio po narodnom heroju Jugoslavije Bošku Palkovljeviću Pinkiju. Pored velike hale kapaciteta 2.300 sedećih mesta za sportske manifestacije i do 5.000 za muzičke koncerte, u sklopu kompleksa postoje još borilačka, gimnastička i baletska sala, fitnes centar, streljana i zatvoreni bazen.",
+			"adresa":"Gradski park 2",
+			"linije":"15, 17, 73, 84, 81, 81L, 85, 88, 704, 706, 707",
+			"referenca":"http://www.pinki-zemun.co.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Sportski centar Banjica",
+			"tip":11,
+			"slika":"2673735690101981303WCWLzU_ph.jpg",
+			"opis":"Centar sadrži zatvoreni olimpijski bazen (2000 mesta za sedenje i 1000 za stajanje), 2 otvorena olimpijska bazena, 6 teniskih terena. Od pratećih sadržaja u Centru postoje medicinski centar, sauna, hidromasaža, trim sala, teretana. Centar je predviđen za održavanje sportskih takmičenja na vodi i to vaterpolo, plivanje, sinhrono plivanje, kao i za takmičenja u tenisu.",
+			"adresa":"Crnotravska 4",
+			"linije":"40, 41, 42, 47, 48, 49, 50, 59, 78, 94, 400, 401, 402, 403, 405, 406, 407, 408, 503, E5",
+			"referenca":"http://waterpolopartizan.rs/sportski-centar-banjica/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"SRC Tašmajdan",
+			"tip":11,
+			"slika":"tas1.jpg",
+			"opis":"Sportsko-rekreacioni centar Tašmajdan je sportski i rekreacioni kompleks u Beogradu, koji je otvoren 1958. Kompleks čine otvoreni stadion Tašmajdan, dvorana Pionir, ledena dvorana i kompleks otvorenih i zatvorenih bazena.",
+			"adresa":"Ilije Garašanina 26-28",
+			"linije":"2, 5, 10, 23, 65, 77",
+			"referenca":"http://www.tasmajdan.rs/rs/Naslovna",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Sportski centar Košutnjak",
+			"tip":11,
+			"slika":"Sportski-centar-498.jpg",
+			"opis":"Sportski centar Kosutnjak- nalasi se na Kosutnaku. Pruža sjajnu rekreaciju svojim korisnicima.",
+			"adresa":"Kneza Višeslava 72",
+			"linije":"23, 53, E2",
+			"referenca":"http://www.besplatansport.com/adresar-sportskih-klubova/bazeni/bazeni-kosutnjak-beograd.html",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Sportski centar Šumice",
+			"tip":11,
+			"slika":"32058337.jpg",
+			"opis":"Centar za kulturu i sport Šumice je sportski, obrazovni i kulturni centar u naselju Šumice, Opština Voždovac, Beograd, Srbija. Izgrađen je 1973., a sa radom je počeo 24. maja 1974. pod nazivom Dom pionira i omladine Voždovac. Površina CKS Šumice je 5817 m2, a u sklopu njega se nalazi velika sportska dvorana kapaciteta 2.000 gledalaca, zatim sala sa pozornicom sa 350 mesta, pres sala, sala za stoni tenis… Šumice kao domaći teren služe mnogim sportskim klubovima, a neki od njih su BKK Radnički, RK Crvena zvezda, OK Partizan, OK Crvena zvezda, ŽOK Crvena zvezda, KMF Marbo itd.",
+			"adresa":"Ustanička 125/1",
+			"linije":"20, 27, 74, 79",
+			"referenca":"http://www.besplatansport.com/adresar-sportskih-klubova/sportski-centri/sportski-centar-sumice-beograd.html",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Studentski kulturni centar Beograd (SKC)",
+			"tip":11,
+			"slika":"skc1.jpg",
+			"opis":"Studentski kulturni centar Beograd (skraćeno SKCB). Nalazi se u ulici Kralja Milana (bivša Srpskih vladara i Maršala Tita) u broju 48. Zgrada u kojoj se nalazi SKC je izgrađena 1895. godine i bila je poznata kao Oficirski dom, projektovao je Jovan Ilkić. Zgrada je ustupljena Beogradskom univerzitetu, odnosno studentima posle velikih studentskih protesta 1968. godine. Od tada pa naovamo, SKC je bio i ostao značajno mesto beogradske mladosti i avangarde iz kojeg su izašli mnogi značajni autori u svim oblastima umetnosti. Tokom socijalističke vladavine, kada su svi ostali prostori bili zatvoreni za autentičnu i kritičku misao, u SKC-u su bili predstavljani mladi, hrabri i buntovni. Tako je tu jedino igran Aleksandar Popović koji je bio u nemilosti vlasti[traži se izvor]. Tokom devedesetih godina XX veka, SKC je bio poznat po tome što se na trotoaru ispred njega nalazila pijaca na kojoj su se prodavala ilegalna (piratska) muzička izdanja.",
+			"adresa":"Kralja Milana 48",
+			"linije":"7, 12, 19, 21, 22, 23, 24, 29, 31, 36, 37, 40, 41, 44, 52, 53, 56, 56L, 58, 74, 78, 83, E1, E2, E9",
+			"referenca":"http://www.skc.org.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Kulturni centar Beograda",
+			"tip":11,
+			"slika":"Download (1).jpg",
+			"opis":"Kulturni centar Beograda ove godine obeležava šezdeset godina od osnivanja! Nastao kao informativno kulturni centar, tokom svih ovih godina menjao je svoju ulogu, širio polja delovanja i aktivno učestvovao u predstavljanju i stvaranju kulturno-umetničkih sadržaja i promišljanja kulturnog delovanja u Srbiji i Evropi. Brojni programi koji su autentično nastali i organizovani u Kulturnom centru Beograda i danas predstavljaju neke od najznačajnijih kulturnih manifestacija našeg glavnog grada i čitave zemlje.",
+			"adresa":"Braće Krsmanović 4",
+			"linije":"2, 11, 15, 16, 27E, 35, 43, 60, 65, 67, 68, 71, 72, 75, 77, 84, 95, E6, EKO1",
+			"referenca":"http://www.kcb.org.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Zemunsko groblje",
+			"tip":10,
+			"slika":"52377399.jpg",
+			"opis":"Zemunsko groblje je javno groblje koje se u Zemunu na bregu Gardoš. Oivičeno je ulicama Cara Dušana, Nade Dimić, Sibinjanin Janka i Grobljanskom, kao i stepeništem ka trgu Branka Radičevića, te čini severozapadnu granicu starog jezgra Zemuna. Groblje je proglašeno za spomenik kulture.",
+			"adresa":"Grobljanska 1",
+			"linije":"17, 73, 84, 703, 704, 705, 706, 706E, 707",
+			"referenca":"https://sr.wikipedia.org/sr-el/%D0%97%D0%B5%D0%BC%D1%83%D0%BD%D1%81%D0%BA%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D1%99%D0%B5",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Novo groblje",
+			"tip":10,
+			"slika":"Novo_groblje1.jpg",
+			"opis":"Novo groblje je groblje u Beogradu. Nalazi se u Ruzveltovoj ulici, a nastalo je 1886. godine, kao treće groblje u Beogradu za sahrane po hrišćanskim običajima. Grobljem danas upravlja javno komunalno preduzeće „Pogrebne usluge”, čija se direkcija nalazi baš na ovom groblju.Novo groblje je, na mestu na kojem se i danas nalazi, prvi put ubeleženo na planu Beograda iz 1884. godine. Pravila za službu na novom gradskom groblju usvojena su 1885, a završetak uređenja bio je 16. avgusta 1886. godine. Sa sahranjivanjem se otpočelo već sutradan. Tako je Novo groblje postalo i prvi planski regulisan prostor te vrste u Beogradu. Početak njegovog funkcionisanja označava veliku prekretnicu u savremnom komunalnom uređenju i životu grada. Godine 1893. podignuta je grobljanska crkva Svetog Nikole, zadužbina Draginje i Stanojla Petrovića, po projektu Svetozara Ivačkovića. Ikonostas crkve delo je Stevana i Poleksije Todorović, a freske Andreje Domenika. Iako je formirano kao srpsko pravoslavno groblje i u periodu između dva svetska rata, dodeljivanjem posebnih parcela, bilo je rešeno sahranjivanje građana ostalih veroispovesti - katolika, protestanata, jevreja, muslimana. Takođe, Rusima koji su došli u Srbiju nakon Oktobarske revolucije dodeljene su posebne parcele. Početkom 1930ih podignuta je i moderna mrtvačnica u neovizantijskom stilu po projektu arhitekte Rajka Tatića.",
+			"adresa":"Ruzveltova 50 ",
+			"linije":"65",
+			"referenca":"https://sh.wikipedia.org/wiki/Novo_groblje_(Beograd)",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Centralno groblje",
+			"tip":10,
+			"slika":"centralno-groblje-5-20101020-1939329922-1024x683.jpg",
+			"opis":"Centralno groblje je jedno od većih groblja u Beogradu I nalazi se u Zaplanjskoj ulici.",
+			"adresa":"Zaplanjska 47a",
+			"linije":"26, 30",
+			"referenca":"http://www.beogradskagroblja.rs/page/100094/cnt/centralno-groblje.sr-Latn-CS.htm",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Bežanijsko groblje",
+			"tip":10,
+			"slika":"Maxresdefault (1).jpg",
+			"opis":"Bežanijsko groblje u Beogradu je groblje koje se nalazi u Gandijevoj ulici",
+			"adresa":"Gandijeva bb",
+			"linije":"65, 612, 708",
+			"referenca":"http://www.beogradskagroblja.rs/page/100096/cnt/novo-be%C5%BEanijsko-groblje.sr-Latn-CS.htm",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Manastir Rakovica",
+			"tip":10,
+			"slika":"Manastir-Rakovica.jpg",
+			"opis":"Manastir Rakovica je manastir Srpske pravoslavne crkve, u okviru Beogradsko-karlovačke arhiepiskopije, smešten u beogradskom naselju Rakovica. Posvećen je arhanđelima Mihajlu i Gavrilu.",
+			"adresa":"Patrijarha Dimitrija 34 ",
+			"linije":"47, 505",
+			"referenca":"https://sr.wikipedia.org/sr/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D0%B0",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Zbeg groblje",
+			"tip":10,
+			"slika":"97_big.jpg",
+			"opis":"Zbeg groblje u Beogradu se nalazi na Zrenjaninskom putu",
+			"adresa":"Zrenjaninski put bb",
+			"linije":"85, 95, 96, 101, 104, 105, 106, 107",
+			"referenca":"http://www.beogradskagroblja.rs/page/100100/cnt/zbeg-groblje.sr-Latn-CS.htm",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Picerija Pinokio",
+			"tip":3,
+			"slika":"Pinokio-zemun-mondo-goran-sivacki-22.jpg",
+			"opis":"Ako bismo vam pričali o istoriji pica, onda bi priča sezala sve do starog Egipta, kada su se koristile prve peći za pečenje hleba, dok je prvobitna osnova za picu bilo hlebno testo. Ova priča, u momentu kada želite da utolite glad sa ukusnom hranom, nije interesantna. Da bi vam se predstavili u što boljem svetlu mi smo odlučili da kroz proizvode picerije Pinokio duh Italije i Napulja preselimo u Zemun. Sa početkom ovog veka, tačnije dvehiljaditih, na tržište smo se probili našim čuvenim specijalitetima kao što je „Pica Pinokio+“, izdašno prekrivena kačkavaljem, šunkom, hrskavom slaninicom, pršutom, kulenom i pečenicom, posuta maslinama i feferonama po želji i ukrašena jajetom. Pored klasičnih specijaliteta koji su svima poznati, ukoliko spadate u prave gurmane, molimo vas nemojte zaobići „Pirošku Pinokio“, „Sendvič Pinokio“. A za tradicionaliste, koji ne vole da eksperimentišu sa ukusima, u ponudi imamo roštilj, slane i slatke palačinke, špagete, lazanje…",
+			"adresa":"Karadjordjeva 12c",
+			"linije":"15, 84, 704, 706, 707",
+			"referenca":"http://picerijapinokio.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Old London pub",
+			"tip":3,
+			"slika":"Bgnocu-1531.jpg",
+			"opis":"Old London pub vam pruža domaću kafu, točena piva i živu svirku.",
+			"adresa":"Gavrila Principa 46",
+			"linije":"2, 3, 7, 9, 11, 12, 13, 36, 46, 51, 52, 53, 56, 56L, 78, 83, 91, 92, 511, 551, 552, 553, 601, A1, E1",
+			"referenca":"http://www.oldlondonpub.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Irish pub",
+			"tip":3,
+			"slika":"2449.jpg",
+			"opis":"Irish pub vam pruža domaću kafu, točena piva i osećaj kao da se nalazite u Irskoj.",
+			"adresa":"Obilićev venac 17",
+			"linije":"15, 16, 19, 21, 22, 24, 26, 35, 43, 84, 704, 706, 707, EKO1",
+			"referenca":"http://www.beogradnocu.com/kafei-u-beogradu/kafe-irish-pub-beervana/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Obilićev venac",
+			"tip":9,
+			"slika":"Eeec556b3fc2f768abdd89c4e42952e2_7846322693.jpg",
+			"opis":"Obilićev venac, delimična pešačka zona i trgovački centar nalazi se u zakonom zaštićenoj ambijentalnoj celini ”Knez Mihailova ulica”, sa nizom stambeno-poslovnih zgrada nastalih u periodu 1900. g. do 2000. g. XXI veka. Obilićev venac nesumnjivo spada u red starih i vrednih gradskih spomeničkih ambijenata na području Beograda. Najuže povezan sa Knez Mihailovom ulicom, Kosančićevim vencem i Beogradskom Tvrđavom čini, u suštini, jedino materijalno svedočanstvo kontinuiranog trajanja grada Beograda, od njegovih najstarijih rimskih vremena do danas. Već u antičko doba, područje ulice je usled specifične konfiguracije terena za komunikacionu trasu koristilo najvišu kotu, odnosno greben od koga se spuštaju blage padine prema obali reke Save. Geografski položaj grebena je prema tome u kasnijim istorijskim periodima bio osnovni činilac oblikovanja i namene Obilićevog venca. Zasigurno je ulica bila zacrtana još u vreme Rimljana kada se u Knez Mihailovoj ulici već nalazio centar naselja Singidunum. Pod najezdom Varvara područje Obilićevog venca biva opustošeno. Agonija propadanja ulice se nastavila tokom celog srednjeg veka te će kulminirati samim nestajanjem sa urbanističke mape tadašnjeg Beograda i pretvaranja u zelenu poljanu. Ulica će oživeti u XV veku u vreme vladavine Despota Stefana Lazarevića i to, pre svega, usled ponovnog uspostavljanja trase nekadašnje via cardo odnosno današnje Knez Mihailove ulice preko koje se stizalo do naselja na platou Gornjeg grada.",
+			"adresa":"Obilićev venac",
+			"linije":"15, 16, 19, 21, 22, 24, 26, 35, 43, 84, 704, 706, 707, EKO1",
+			"referenca":"https://sr.wikipedia.org/sr/%D0%9E%D0%B1%D0%B8%D0%BB%D0%B8%D1%9B%D0%B5%D0%B2_%D0%B2%D0%B5%D0%BD%D0%B0%D1%86_(%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4)",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Bašta Gaučosi",
+			"tip":3,
+			"slika":"Basta-gaucosi-crop.jpg",
+			"opis":"Bašta Gaučosa je letnja varijanta kafane Druga Kuća Gaučosi koja se nalazi u ulici Bulevar Vojvode Bojovića 10, kod Kalemegdana, u srcu Dorćola.  Idealna lokacija je još jedan razlog više da je posetite. Bašta Gaučosa krije oazu mira, prijatnog ambijenta bogatog palmama i raznim biljem koji danju daju idealno mesto za vašu prvu jutarnju kafu, frape u podne i koktel uveče, kada se ambijent pretvara u kafanu koju karakterišu sjajna gostovanja i kvalitetna pića i usluga! Ušuškana između zelenila, Bašta Gaučosa je idealno mesto da sa društvom leti odmorite od uzavrelog beogradskog asfalta. Dobro ozvučenje, savršeno osvetljenje, ambijent osmišljen tako da odgovara svačijem ukusu i omogući maksimalno prepuštanje svim čarima prestoničkog vajba, samo su neke od stvari koje karakterišu Baštu Gaučosa.",
+			"adresa":"Bulevar Vojvode Bojovića 10",
+			"linije":"2, 5, 10, 11",
+			"referenca":"http://www.beogradnocu.com/kafane-u-beogradu/basta-gaucosi/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Gaučosi",
+			"tip":3,
+			"slika":"enterijer5.jpg",
+			"opis":"Kafana Gaučosi nova je beogradska kafana otvorena početkom jeseni 2014. godine na mestu nekadašnjeg kluba Gaučosi, u ulici Bulevar Vojvode Bojovića 10, kod Kalemegdana. Kafana Gaučosi savršeno je mesto za noćni provod, jer poseduje idealnu lokaciju na Dorćolu, sa sopstvenim parkingom, prijatnim osobljem i uvek dobrom atmosferom. Autentičan enterijer, sa kožom i drvetom, očaraće vas pri prvom ulasku.",
+			"adresa":"Bulevar Vojvode Bojovića 10",
+			"linije":"2, 5, 10, 11",
+			"referenca":"http://www.gdeizaci.com/kafane-beograd/kafana-druga-kuca-gaucosi",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Kafana Limun Žut",
+			"tip":3,
+			"slika":"Kafana-Limun-Zut-logo.jpg",
+			"opis":"Kafana \"Limun Žut\" je smeštena blizu Vukovog spomenika na Zvezdari, na teritoriji šireg centra Beograda u ulici Dimitrija Tucovića broj 88. Uređena u duhu etno stila, svojim enterijerom naša kafana obećava nezaboravan provod. Ponosni smo domaćini velikog broja gostiju koji nam se uvek iznova vraćaju. Svojim izgledom i toplom atmosferom, kafana \"Limun Žut\" sa pravom je zadobila dobru reputaciju i simpatije svojih gostiju. Koncept kafane je uređen na poseban način, kako bi se dobio odličan položaj svakog stola, odnosno da bi se naši gosti našli uvek u centru pažnje. Nastojimo da srdačnim pristupom učinimo da se kod nas osećate dobrodošli u svakom trenutku.",
+			"adresa":"Dimitrija Tucovića 88",
+			"linije":"5, 6, 7, 14, 28, 40, 77, 79",
+			"referenca":"http://www.kafanapavlekorcagin.rs/kafana-limun-zut-beograd",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Kafana Pavle Korčagin",
+			"tip":3,
+			"slika":"pavle_korcagin_103.jpg",
+			"opis":"- Na Zvezdari je 2001. godine otvorena \"postena kafana\", jedna od 12500 kafana u Beogradu, koja podseca na vreme komunizma i ciji su osnivaci \"akcijasi\". U vrema Tita, radne akcije su bile veoma popularne i korisne, kako za zemlju, tako i za narod, te je to vreme nazvano i \"drustvo jednakih sansi\". U to su vreme, svi koji su hteli da studiraju to zaista i mogli, bez obzira na to ko su im bili roditelji. To je bila njihova sansa.",
+			"adresa":"Ćirila i Metodija 2/A",
+			"linije":"3, 5, 6, 7, 12, 14, 25, 2P, 27, 28, 32, 40, 65, 66, 74, 77, 79",
+			"referenca":"http://www.kafanapavlekorcagin.rs/kafana-pavle-korcagin-beograd",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Gospodarska Mehana",
+			"tip":3,
+			"slika":"Gospodarska-mehana-bulevar-vojvode-misica-59_2.jpg",
+			"opis":"Ušuškana u podnožju senjačkog brda, jednog od najlepših naselja u Beogradu, tačno preko puta Sajma, a na obalama reke Save smestila se stara lepotica Kneževine Srbije Gospodara mehana.",
+			"adresa":"Bulevar Vojvode Mišića 59",
+			"linije":"3, 12, 13",
+			"referenca":"http://www.doceksrbija.com/gospodarska-mehana-bulevar-vojvode-misica-59.html",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Spomenik Neznanom junaku",
+			"tip":2,
+			"slika":"1200px-Monument_au_soldat_inconnu_mont_Avala.jpg",
+			"opis":"Spomenik Neznanom junaku na Avali je monumentalni mauzolej na vrhu planine Avala na jugoistoku Beograda (opština Voždovac). Tvorac ovog spomenika je hrvatski i jugoslovenski vajar Ivan Meštrović. Podignut je 1938. godine.",
+			"adresa":"Avalski toranj",
+			"linije":"400",
+			"referenca":"https://sr.wikipedia.org/sr-el/%D0%A1%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA_%D0%9D%D0%B5%D0%B7%D0%BD%D0%B0%D0%BD%D0%BE%D0%BC_%D1%98%D1%83%D0%BD%D0%B0%D0%BA%D1%83",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Spomenik Josifu Pančiću",
+			"tip":2,
+			"slika":"Spomenik_Josifu_Pančiću_3.jpg",
+			"opis":"Spomenik Josifu Pančiću podignut u Beogradu u spomen na Josifa Pančića (1814—1888), srpskog lekara, naučnika, botaničara i prvog predsednika Srpske kraljevske akademije. Spomenik se nalazi u Studenskom parku i ima status spomenika kulture. Spomenik je postavljen je 1897. godine, kao rad je vajara Đorđa Jovanovića, jednog od prvih domaćih školovanih vajara.",
+			"adresa":"Studentski trg bb",
+			"linije":"19, 21, 22, 29, 31",
+			"referenca":"https://sr.wikipedia.org/sr-el/%D0%A1%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA_%D0%88%D0%BE%D1%81%D0%B8%D1%84%D1%83_%D0%9F%D0%B0%D0%BD%D1%87%D0%B8%D1%9B%D1%83",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Čukur česma",
+			"tip":2,
+			"slika":"86_big.jpg",
+			"opis":"Čukur česma se nalazi u Dobračinoj ulici u Beogradu. Na česmi se nalazi bronzana statua dečaka Save Petkovića u spomen incidenta od strane turskih nizama koji se na tom mestu odigrao 3/15. juna 1862. godine. Zvaničan naziv skulpture je „Dečak sa razbijenim krčagom”.",
+			"adresa":"Dobračina 36",
+			"linije":"2, 5, 10, 24, 26, 37, 44, 79, E2, E9",
+			"referenca":"https://sr.wikipedia.org/sr-el/%D0%A7%D1%83%D0%BA%D1%83%D1%80_%D1%87%D0%B5%D1%81%D0%BC%D0%B0",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Hotel Jugoslavija",
+			"tip":7,
+			"slika":"11.jpg",
+			"opis":"Hotel „Jugoslavija”, otvoren 1969. godine, bio je jedan od prva tri značajna objekta koji su planirani u Novom Beogradu, pored zgrade CK KPJ i zgrade Predsedništva vlade FNRJ. Arhitektonski konkurs za ovaj objekat, odnosno za državni reprezentativni hotel „Beograd”, kako je tada planirano da bude nazvan, raspisan je 1947. godine. Prvu nagradu dobio je Projektni zavod Hrvatske, naime, poznati arhitekti zagrebačke škole moderne Mladen Kauzlarić, Lavoslav Horvat i Kazimir Ostrogović. Njihov projekat je predlagao beskompromisno modernistički koncipiran objekat, primeren ideji o Novom Beogradu kao savremenom gradu. Lokacija za hotel na Dunavskom keju, pored železničke stanice Zemun, određena je u Idejnom planu Novog Beograda arhitekte Nikole Dobrovića (1948).",
+			"adresa":"Bulevar Nikole Tesle 3",
+			"linije":"15, 84, 704, 706, 707",
+			"referenca":"http://hoteljugoslavija.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Hyatt Regency Beograd",
+			"tip":7,
+			"slika":"hajat.jpg",
+			"opis":"Ovaj hotel sa 5 zvezdica smešten na pogodnoj lokaciji u poslovnoj četvrti na Novom Beogradu, između Aerodroma Beograd i Starog grada. U kompleksu se nalaze raznovrsni restorani i luksuzni spa centar. Gosti mogu besplatno da koriste standardni internet, a brzi internet vam je na raspolaganju uz doplatu. Sobe hotela Hyatt Regency Belgrade elegantno su uređene u nežnim pastelnim tonovima i nude pogled na centar grada ili park. U hotelskim restoranima služe se različiti internacionalni specijaliteti, a u kafeu Tea House možete da se opustite dok slušate lagane džez melodije, i na raspolaganju su vam razna peciva, veliki izbor čajeva i drugih pića.",
+			"adresa":"Milentija Popovića 5",
+			"linije":"7, 9, 11, 13, 16, 27E, 35, 65, 67, 68, 71, 72, 75, 77, 78, 83, 95, E1, E6, EKO1",
+			"referenca":"http://hyattregencybeograd.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Crowne Plaza Belgrade",
+			"tip":7,
+			"slika":"Crowne-plaza-big.jpg",
+			"opis":"Luksuzni hotel Crowne Plaza Belgrade nalazi se na idealnoj lokaciji u centru poslovne četvrti na Novom Beogradu. Do centra grada može se stići za 5 minuta vožnje, a 2 tržna centra nalaze se na svega par koraka. Gostima su na raspolaganju spa centar, sala za fitnes, kao i zatvoreni bazen. Hotel poseduje i 2 restorana u kojima gosti mogu uživati u jelima lokalne kuhinje. Nedavno uređene, klimatizovane sobe imaju radni sto, stolicu, mini-bar i flat-screen TV. Sopstveno kupatilo opremljeno je tušem i besplatnim toaletnim priborom. Besplatan bežični internet dostupan je u celom hotelu. Hotel Crowne Plaza Belgrade idealno je mesto za učesnike kongresa, pošto je hotel direktno povezan sa Sava Centrom, najvećim kongresnim centrom u Beogradu. Hotel takođe poseduje najveću salu za sastanke i bankete u zemlji. Beogradska arena, najveća dvorana u kojoj se mogu organizovati sportski i drugi događaji, nalazi se na maloj pešačkoj udaljenosti.",
+			"adresa":"Vladimira Popovica 10",
+			"linije":"7, 11, 13, 17, 18, 74, 88, 95, 601, E1, E6",
+			"referenca":"https://www.ihg.com/crowneplaza/hotels/us/en/belgrade/begcp/hoteldetail",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Hotel Metropol Palace, a Luxury Collection Hotel",
+			"tip":7,
+			"slika":"22400771.jpg",
+			"opis":"Hotel Metropol Palace, iz hotelskog lanca A Luxury Collection, smešten je na svega 400 metara od srca Beograda. U ponudi ima 2 restorana i elegantno uređene smeštajne jedinice sa besplatnim bežičnim internetom. Pored toga nudi spa centar sa 25-metarskim bazenom. Hotel je renoviran 2012. godine. Hotelski spa centar zauzima površinu veću od 1.200 m². Uključuje saunu, hidromasažnu kadu, parno kupatilo, teretanu, salu za vežbanje i prostor za opuštanje.",
+			"adresa":"Bulevar kralja Aleksandra 69",
+			"linije":"2, 3, 5, 6, 7, 10, 12, 14, 24, 26, 27, 33, 48, 65, 74, EKO1",
+			"referenca":"http://www.metropolpalace.com/sr",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Hotel Prag",
+			"tip":7,
+			"slika":"Hotel-prag.jpg",
+			"opis":"Hotel u centru Beograda koji pruža: Room service, perionica, menjačnica",
+			"adresa":"Kraljice Natalije 27",
+			"linije":"52, 53, 56, 56L",
+			"referenca":"http://www.hotelprag.rs/?gclid=EAIaIQobChMIrK3ar7DU1QIVj24bCh1MFASJEAAYASAAEgLUBfD_BwE",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"IN Hotel Belgrade",
+			"tip":7,
+			"slika":"spolja-OK-1-b89b2d0057f335bf9a1d60ac9b0028bb-1000x671-crop.jpg",
+			"opis":"Hotel IN Beograd je poslovni hotel smešten u centralnom finansijskom i poslovnom delu Novog Beograda. Hotel se nalazi na savršenoj lokaciji za poslovne ljude jer nudi moderne pogodnosti i jedinstven spoj dizajna i tehnologije. Hotel je smešten kraj autoputa Beograd - Zagreb/ Novi Sad. Udaljen je 5 minuta hoda od Arene, najveće sportske dvorane u Evropi. Za 10 minuta hoda stiže se do kongresnog centra Sava, kao i do Dunava i velikog parka kraj njega. Beogradski sajam, tržni centar Delta City i najveći tržni centar na Balkanu, Ušće, takođe se nalaze u blizini. Do centra grada vam je potrebno 10 minuta vožnje. Moderne sobe imaju besplatan internet, antialergijske jastuke i posteljinu, kao i mnoge druge neophodne sadržaje. Gosti mogu započeti dan vežbanjem u teretani, a uveče se mogu opustiti u sauni ili uživati u masaži.",
+			"adresa":"Bulevar Arsenija Čarnojevića 56",
+			"linije":"17, 18, 67, 68, 74, 88, 601, EKO1",
+			"referenca":"http://www.inhotel-belgrade.rs/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Niška tvrđava",
+			"tip":8,
+			"slika":"Niska-tvrdjava-6.jpg",
+			"opis":"Niška tvrđava je gradsko utvrđenje u centru Niša na desnoj obali Nišave, koje ima kontinuitet od oko dva milenijuma konstantnog postojanja o čemu svedoče mnogobrojni arheološki nalazi. Po svom današnjem stanju, spada među najočuvanije utvrde tog tipa u Srbiji i na Balkanskom poluostrvu. Niška tvrđava je zaštićena zakonom maja 1948, a odlukom Skupštine Srbije, aprila 1979. proglašena je za nepokretno kulturno dobro kao spomenik kulture od velikog značaja.",
+			"adresa":"Bulevar Nikole Tesle bb",
+			"linije":"1, 2, 3, 7, 34b",
+			"referenca":"http://niskatvrdjava.com/",
+			"brojac":0
+		}
+	},
+	{
+		"model":"preporucivac.mesto",
+		"fields":{
+			"naziv":"Golubačka tvrđava",
+			"tip":8,
+			"slika":"IMG_9938-.jpg",
+			"opis":"Golubački grad ili Golubac je srednjovekovna tvrđava, spomenik kulture od izuzetnog značaja. Nalazi se u Nacionalnom parku Đerdap, na desnoj obali Dunava, 4 km nizvodno od današnjeg naselja. Smeštena je na visokim liticama, na mestu na kom se reka sužava, na samom ulazu u Đerdapsku klisuru. Tvrđava je građena lepezasto i sastoji se od tri dela: prednjeg, zadnjeg i gornjeg grada (sa citadelom). Čini ga ukupno 10 kula i dve velike kolske kapije. Ispred tvrđave je bilo civilno naselje, o čemu danas svedoče samo neki delimično istraženi objekti. Golubac je imao burnu istoriju. Tokom srednjeg veka, vodile su se mnoge bitke oko njega, naročito između Osmanskog carstva i Kraljevine Mađarske. Od 1867. godine, predat je srpskom knezu Mihailu Obrenoviću. U savremeno doba Golubac je popularna turistička atrakcija na Dunavu. Tokom 2012. godine je započet projekat revitalizacije tvrđave u okviru kojeg je izgrađena obilaznica i tunel, a do kraja 2017. se očekuje kompletna obnova.",
+			"adresa":"Golubačka tvrđava se nalazi 4 km istočno od Golupca",
+			"linije":"Lasta auto prevoznik: Beograd-Golubac",
+			"referenca":"http://www.tvrdjavagolubackigrad.rs/",
+			"brojac":0
+		}
+	}
+]
